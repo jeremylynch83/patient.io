@@ -1,0 +1,5 @@
+weight: 2
+name: "Further information"
+icon: "fas fa-desktop"
+url: "/faq"
+description: "Links to further patient resources."

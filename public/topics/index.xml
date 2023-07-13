@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on Interventional neuroradiology</title>
+    <link>https://devcows.github.io/topics/</link>
+    <description>Recent content in Topics on Interventional neuroradiology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://devcows.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aneurysm</title>
+      <link>https://devcows.github.io/topics/aneurysms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devcows.github.io/topics/aneurysms/</guid>
+      <description>On this page you will find information about brain aneurysms and their treatment.
+ Introduction to brain aneurysms Diagnosis of brain aneurysms Signs and symptoms of brain aneurysms Treatment of ruptured aneurysms Treatment of unruptured aneurysms Additional resources  </description>
+    </item>
+    
+    <item>
+      <title>Diagnosis</title>
+      <link>https://devcows.github.io/topics/aneurysms/diagnosis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devcows.github.io/topics/aneurysms/diagnosis/</guid>
+      <description>How are aneurysms diagnosed? There are a few tests, each of which has its advantages and disadvantages.
+ Computerised tomography (CT or CAT scan). This uses X-rays to image the body. It is widely accessible, quick, and is very useful to detect bleeding in or around the brain. The study can be done with or without &amp;lsquo;contrast&amp;rsquo; dye. CT scans involve small amounts of radiation, doses which are not normally a significant risk to the patient.</description>
+    </item>
+    
+    <item>
+      <title>Further resources</title>
+      <link>https://devcows.github.io/topics/aneurysms/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devcows.github.io/topics/aneurysms/links/</guid>
+      <description>Links</description>
+    </item>
+    
+    <item>
+      <title>Introduction to brain aneurysms</title>
+      <link>https://devcows.github.io/topics/aneurysms/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devcows.github.io/topics/aneurysms/introduction/</guid>
+      <description>What is an aneurysm? An aneurysm is a bulge in the wall of a blood vessel caused by a small area of weakness. Aneurysms can occur in various parts of the body, but one of the most common locations is the brain. These are known as intracranial or cerebral aneurysms. This bulge can lead to the rupture of the aneurysm, resulting in severe bleeding around the brain called subarachnoid haemorrhage.</description>
+    </item>
+    
+    <item>
+      <title>Ruptured aneurysms</title>
+      <link>https://devcows.github.io/topics/aneurysms/ruptured-aneurysms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devcows.github.io/topics/aneurysms/ruptured-aneurysms/</guid>
+      <description>What are the consequences of aneurysm rupture? Aneurysm rupture results in a severe headache caused by bleeding around the brain, termed subarachnoid haemorrhage. A common description of this is a &amp;ldquo;thunderclap&amp;rdquo; headache. It may be accompanied by a stiff neck, sickness, vomiting, sensitivity to light, and loss of consciousness. Aneurysmal haemorrhage may lead to death. Rates of death vary in different studies and range from 20-50% [1]. It is likely that the death rate from aneurysm rupture is decreasing over time due to advances in medical care.</description>
+    </item>
+    
+    <item>
+      <title>Signs and symptoms of brain aneurysms</title>
+      <link>https://devcows.github.io/topics/aneurysms/symptoms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devcows.github.io/topics/aneurysms/symptoms/</guid>
+      <description>A brain aneurysm typically doesn&amp;rsquo;t present symptoms until it&amp;rsquo;s large or ruptures. However, it&amp;rsquo;s crucial to recognise potential signs to seek timely medical help.
+Ruptured Brain Aneurysm A ruptured aneurysm is a medical emergency. Symptoms often include:
+ Sudden, severe headache (&amp;ldquo;worst headache of your life&amp;rdquo;) Neck stiffness or pain Light sensitivity (photophobia) Sudden blurred or double vision Sudden pain above or behind the eye Changes in mental status or awareness Difficulty walking or sudden dizziness Sudden weakness and numbness  Unruptured Brain Aneurysm Most aneurysms do not give any symptoms until they rupture.</description>
+    </item>
+    
+    <item>
+      <title>Unruptured aneurysm</title>
+      <link>https://devcows.github.io/topics/aneurysms/unruptured-aneurysms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devcows.github.io/topics/aneurysms/unruptured-aneurysms/</guid>
+      <description>I have an aneurysm. Does it need to be treated? Not necessarily. Aneurysms can be dangerous but some require no treatment at all. The decision to treat is often a complex one and requires discussion with an experienced medical professional. Any medical treatment involves a degree of risk, no matter how small. It is probable that for certain low-risk aneurysms the risk of the aneurysm is outweighed by the risk of the treatment.</description>
+    </item>
+    
+  </channel>
+</rss>
