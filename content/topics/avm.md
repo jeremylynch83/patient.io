@@ -7,5 +7,6 @@ On this page you will find information about arteriovenous malformations and the
 
 * [Introduction to arteriovenous malformations](introduction)
 * [Signs and symptoms](symptoms)
+
 * [Diagnosis](diagnosis)
 * [Treatment](treatment)

@@ -39,14 +39,6 @@ pluralizelisttitles = false
     post       = 1
 
 [[menu.main]]
-    name       = "More information"
-    identifier = "section.headervariations"
-    url        = ""
-    weight     = 2
-    parent     = "menu.features"
-    post       = 2
-
-[[menu.main]]
     name       = "Aneurysms"
     url        = "/topics/aneurysms"
     weight     = 1
@@ -58,11 +50,11 @@ pluralizelisttitles = false
     weight     = 1
     parent     = "section.shortcodes"
 
-#[[menu.main]]
-#    name       = "Arteriovenous malformation"
-#    url        = "/topics/avm"
-#    weight     = 1
-#    parent     = "section.shortcodes"
+[[menu.main]]
+    name       = "Arteriovenous malformation"
+    url        = "/topics/avm"
+    weight     = 1
+    parent     = "section.shortcodes"
 
 #[[menu.main]]
 #    name       = "Spinal vascular malformations"
@@ -70,16 +62,25 @@ pluralizelisttitles = false
 #    weight     = 1
 #    parent     = "section.shortcodes"
 
+[[menu.main]]
+    name       = "More information"
+    identifier = "section.headervariations"
+    url        = ""
+    weight     = 2
+    parent     = "menu.features"
+    post       = 2
+
+[[menu.main]]
+    name       = "Editorial policy"
+    url        = "editorial-policy"
+    weight     = 1
+    parent     = "section.headervariations"
 
 [[menu.main]]
     name       = "Further resources"
     url        = "/topics/links"
     weight     = 1
     parent     = "section.headervariations"
-
-
-
-
 
 
 

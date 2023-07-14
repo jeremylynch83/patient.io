@@ -1,5 +1,6 @@
 ---
 title: "Aneurysm"
+toc: true
 #image: "/images/covid-19.jpg"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Signs and symptoms of brain aneurysms"
+toc: true
 #image: "/images/covid-19.jpg"
 ---
 
@@ -7,7 +8,7 @@ A brain aneurysm typically doesn't present symptoms until it's large or ruptures
 
 ## Ruptured Brain Aneurysm
 
-A ruptured aneurysm is a medical emergency. Symptoms often include:
+A ruptured aneurysm is a medical emergency. Symptoms may include:
 
 * Sudden, severe headache ("worst headache of your life")
 * Neck stiffness or pain
@@ -17,6 +18,10 @@ A ruptured aneurysm is a medical emergency. Symptoms often include:
 * Changes in mental status or awareness
 * Difficulty walking or sudden dizziness
 * Sudden weakness and numbness
+
+Most of the time aneurysm rupture is a serious and dramatic event that would be very noticeable to the patient. Commonly there is a severe headache, neck, pain, and sensitivity to light, which may be accompanied by loss of consciousness and patients are usually immediately brought to the hospital for further investigation and treatment.
+
+Rarely, however, aneurysm rupture can produce less noticeable symptoms. Typically, there is still a severe headache. If you have any concerns you should immediately contact emergency medical services, especially if you’re known to have a brain aneurysm.
 
 ## Unruptured Brain Aneurysm
 

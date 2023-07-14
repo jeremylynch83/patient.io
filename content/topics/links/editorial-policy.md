@@ -1,0 +1,12 @@
+---
+title: "Our editorial policy"
+#image: "/images/covid-19.jpg"
+toc: true
+---
+
+
+We are dedicated to delivering reliable, precise, and current health information to both the general public and healthcare professionals worldwide. All the health information available on our platform are completely independent of any commercial interests or influences. Our content is based on trustworthy research evidence, established UK, US, and European medical guidelines, and the highest standards of clinical practice. We adhere to UK spelling and terminology in our editorial approach.
+
+Our health information leaflets are crafted in clear and easily understandable language, catering to the needs of the general public and patients. They are designed in a user-friendly format that allows healthcare professionals to print and translate them for patient consultations effortlessly. These informational resources are written and subjected to peer review by our team of doctors who cover a wide range of medical conditions. We continuously expand and update our collection to ensure comprehensive coverage.
+
+Any multimedia content, such as videos and audio, follow rigorous ethical procedures. 
