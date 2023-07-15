@@ -39,36 +39,6 @@ There are no medications that can be given to shrink aneurysms, however stopping
 
 Endovascular treatment is a minimally invasive procedure to treat aneurysms. Rather than requiring a large incision and direct surgical access to the aneurysm, endovascular treatment achieves its goal by guiding small, specialized devices through the patient's blood vessels to the site of the aneurysm. Embolisation means to promote clot formation within the aneurysm, commonly by inserting platinum coils or placing stents of flow diverters acoss its neck. These techniques seal off the aneurysm, preventing blood from entering it.
 
-
-<table>
-  <tr>
-   <td>
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-   <td>
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image2.jpg" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Figure 1</strong> - Using a tiny catheter coils are placed inside the aneurysm and left in place.
-   </td>
-   <td><strong>Figure 2 </strong>- A stent is additionally placed across the neck of the aneurysm.
-   </td>
-  </tr>
-</table>
-
-
-
 ## What are the types of endovascular treatment?
 
 
@@ -132,3 +102,10 @@ The Cerebral Aneurysm Rerupture after Treatment study reported that the rate of 
 However, like any treatment, there is no absolute guarantee that an aneurysm treated with endovascular therapy will never require further treatment. In a small percentage of cases, aneurysms can recur and may necessitate additional procedures. It's worth noting that surgical clipping, much like endovascular treatment, isn't exempt from the possibility of requiring further intervention. For this reason endovascularly treated aneurysms are regularly monitored with follow-up scans to ensure that the treatment remains effective. If a further treatment is required this can usually be performed in a minimally invasive way through the blood vessels without major surgery. 
 
 Overall, the advancements in endovascular treatments provide a highly safe and effective treatment, offering reassurance for those diagnosed with brain aneurysms. After treatment of a brain aneurysm you would be far more likely to die from another completely unrelated cause such as cancer of heart disease, than from recurrence of the aneurysm [3]. 
+
+
+---
+| Article author   |
+| ---------------- |
+| Dr Jeremy Lynch,   Consultant neurointerventional radiologist, Kings College Hospital, United Kingdom |
+

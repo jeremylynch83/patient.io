@@ -1,0 +1,571 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backg",
+				"background"
+			],
+			[
+				"Neuro",
+				"neuroradiology"
+			],
+			[
+				"pub",
+				"public_templates"
+			],
+			[
+				"save",
+				"save_prefs"
+			],
+			[
+				"sho",
+				"showAlert"
+			],
+			[
+				"select",
+				"selectTemplate"
+			],
+			[
+				"sp",
+				"specialty"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"rad",
+				"radreport_titles"
+			],
+			[
+				"speci",
+				"specialties"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"print_te",
+				"print_text_after"
+			],
+			[
+				"loadX",
+				"loadXML_new"
+			],
+			[
+				"parse",
+				"parseFindings"
+			],
+			[
+				"te",
+				"templateForm"
+			],
+			[
+				"f",
+				"fieldset"
+			],
+			[
+				"v",
+				"validatorResult"
+			],
+			[
+				"b-",
+				"b-container"
+			],
+			[
+				"templ",
+				"template_gui"
+			],
+			[
+				"user_",
+				"user_templates"
+			],
+			[
+				"user",
+				"user_templates"
+			],
+			[
+				"fin",
+				"findIndex"
+			],
+			[
+				"tempa",
+				"templateForm"
+			],
+			[
+				"new_",
+				"new_template_name"
+			],
+			[
+				"template",
+				"templateForm"
+			],
+			[
+				"use",
+				"user_password"
+			],
+			[
+				"function",
+				"myFunction2"
+			],
+			[
+				"templates",
+				"exists_in_templates"
+			],
+			[
+				"ex",
+				"exists_in_user_templates"
+			],
+			[
+				"ap",
+				"appendChild"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "content/topics/aneurysms/ruptured-aneurysms.md",
+			"settings":
+			{
+				"buffer_size": 4351,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install package control",
+				"Package Control: Install Package"
+			],
+			[
+				"term",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"termin",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"t",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"ter",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"termi",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"terminus",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"ht",
+				"HTMLPrettify"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"htlm",
+				"HTMLPrettify"
+			],
+			[
+				"h",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"JsPrettier: Format Code"
+			],
+			[
+				"pretti",
+				"JsPrettier: Format Code"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"prettier",
+				"JsPrettier: Format Code"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"exit()",
+			"ls",
+			"cd Development"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms"
+	],
+	"file_history":
+	[
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms/ruptured-aneurysms.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/avm.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/jeremylynch83.github.io/templateList.js",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/spinalvascular.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/davf.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/davf/introduction.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/davf/diagnosis.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/avm/treatment.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes/newtheme/layouts/page/single.html",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes/newtheme/layouts/partials/tableOfContents.html",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes/newtheme/layouts/partials/page.html",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/config.toml",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/jeremylynch83.github.io/index.html",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/jeremylynch83.github.io/raphael.js",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/jeremylynch83.github.io/scores.js",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/links/editorial-policy.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/avm/symptoms.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/avm/diagnosis.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/avm/introduction.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms/symptoms.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms/introduction.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/links.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/layouts/partials/tableOfContents.html",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/davf/treatment.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/davf/symptoms.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms/links.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/content/topics/aneurysms.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/data/features/aneurysms.yaml",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/content/topics/aneurysms/ruptured-aneurysms.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/content/topics/aneurysms/introduction.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/content/topics/aneurysms/symptoms.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/content/topics/aneurysms/links.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/config.toml",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/temp/patientinfo/README.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/content/topics/aneurysms/unruptured-aneurysm.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/content/topics/aneurysm.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/content/topics/unruptured-aneurysm.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/data/features/aneurysms.yaml",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/data/features/aneurysm.yaml",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/content/topics/index-aneurysm.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/data/features/webdesign.yaml",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/public/css/style.default.css",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/themes/newtheme/theme.toml",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/themes/newtheme/exampleSite/data/carousel/features.yaml",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/themes/newtheme/static/css/style.default.css",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/data/carousel/multipurpose.yaml",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/data/features/furtherinfo.yaml",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/data/features/print.yaml",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/themes/newtheme/exampleSite/data/features/email.yaml",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/content/blog/categories-post.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/themes/newtheme/layouts/_default/list.html",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/archetypes/default.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/themes/newtheme/exampleSite/config.toml",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/content/contact.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/themes/newtheme/layouts/partials/footer.html",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/public/index.html",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/themes/newtheme/static/css/style.blue.css",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/themes/newtheme/static/css/custom.css",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/data/carousel/features.yaml",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/data/testimonials/5.yaml",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/content/faq.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/newsletters/main.py",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/jeremylynch83.github.io/deviceList.js",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/Newsletters_script/prefs.json",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/Newsletters_script/pubmed.py",
+		"/home/jeremy/Downloads/main.py",
+		"/home/jeremy/Downloads/index.html",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/radtemplates/static/js/my_lib.js",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/radtemplates/templates/app.html",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/radtemplates/templates/index.html",
+		"/home/jeremy/stable-diffusion-webui/README.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/newsletters/templates/index.html",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/newsletters/data/index.html",
+		"/media/jeremy/Data/timer.py",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/Newsletters_script/newsletters/data/index.html",
+		"/home/jeremy/Desktop/timer.py",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/Newsletters_script/prefs (2).json",
+		"/home/jeremy/test.svg",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/vector/vector.py",
+		"/home/jeremy/timer.py",
+		"/home/jeremy/Development/Newsletters_script/pubmed.py",
+		"/home/jeremy/Development/timer/main.cpp",
+		"/home/jeremy/Development/gpt/gpt.py",
+		"/home/jeremy/Development/Newsletters_script/prefs.json",
+		"/home/jeremy/Downloads/prefs (1).json",
+		"/home/jeremy/Desktop/Downloads/prefs (1).json",
+		"/home/jeremy/Development/newsletters/templates/newsletter.html",
+		"/home/jeremy/Development/newsletters/templates/index.html",
+		"/home/jeremy/Downloads/prefs.json",
+		"/home/jeremy/Desktop/Downloads/pres.md",
+		"/home/jeremy/Development/newsletters/main.py",
+		"/home/jeremy/Development/newsletters/templates/app.html",
+		"/home/jeremy/Development/Newsletters_script/inr.json",
+		"/home/jeremy/Development/Newsletters_script/newsletters/data/Interventional neuroradiology.html",
+		"/home/jeremy/Development/jeremylynch83.github.io/index.html",
+		"/home/jeremy/Development/jeremylynch83.github.io/css/my.css",
+		"/home/jeremy/Development/Newsletters_script/subjects/Interventional neuroradiology/old.csv",
+		"/home/jeremy/Development/jeremylynch83.github.io/deviceList.js",
+		"/home/jeremy/Development/Newsletters_script/Dentistry.json",
+		"/home/jeremy/Downloads/dentistry.json",
+		"/home/jeremy/Development/Newsletters_script/AI.json",
+		"/home/jeremy/Development/Newsletters_script/Dermatology.json",
+		"/home/jeremy/Development/Newsletters_script/dentistry.json",
+		"/home/jeremy/Development/Newsletters_script/data.csv",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Research/Radiology Exams AI/Source/app_gpt3.py",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Research/Research direction/pubmed.py",
+		"/home/jeremy/Development/radtemplates/models.py",
+		"/home/jeremy/Development/radtemplates/templates/app.html",
+		"/home/jeremy/Development/radtemplates/templates/newsletter.html",
+		"/home/jeremy/Development/radtemplates/main.py",
+		"/home/jeremy/Development/radtemplates/pubmed.py",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Research/Research direction/extract_tables.py",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Research/research direction/pubmed.py",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Research/Radiology Exams AI/Source/app_category.py",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Research/temp/pubmed.py",
+		"/home/jeremy/Downloads/pres.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Research/Radiology Exams AI/Source/app.py",
+		"/usr/share/applications/rstudio.desktop",
+		"/home/jeremy/Downloads/OEBPS/Text/output.txt",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Research/Radiology Exams AI/Exams/Question books/weissman.txt",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Research/Radiology Exams AI/Exams/Question books/mcqs.txt",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Research/Radiology Exams AI/Exams/Question books/categorise.py",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Research/Radiology Exams AI/Exams/Question books/lindsay.txt",
+		"/home/jeremy/Development/BeamAdapter/examples/python3/SingleBeamDeployment.py",
+		"/home/jeremy/Development/BeamAdapter/examples/python3/SingleBeam.py",
+		"/home/jeremy/Development/BeamAdapter_v22.12_for-SOFA-master_Linux/examples/python3/SingleBeam.py",
+		"/home/jeremy/Development/BeamAdapter_v22.12_for-SOFA-master_Linux/examples/python3/SingleBeamDeployment.py"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "content/topics/aneurysms/ruptured-aneurysms.md",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3147,
+								3147
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 507.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 96.0
+	},
+	"output.exec":
+	{
+		"height": 69.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "myproj.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"blog",
+				"~/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/content/blog/categories-post.md"
+			],
+			[
+				"",
+				"~/Development/radtemplates/static/js/my_lib.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 325.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

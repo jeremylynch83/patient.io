@@ -4,3 +4,9 @@ title: "Further resources"
 ---
 
 Links
+
+---
+| Article author   |
+| ---------------- |
+| Dr Jeremy Lynch,   Consultant neurointerventional radiologist, Kings College Hospital, United Kingdom |
+

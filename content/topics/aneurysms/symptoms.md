@@ -33,3 +33,9 @@ Most aneurysms do not give any symptoms until they rupture. In rare instances un
 * Facial numbness
 
 If you experience any of these symptoms, seek immediate medical attention. It's better to err on the side of caution when your health is concerned.
+
+---
+| Article author   |
+| ---------------- |
+| Dr Jeremy Lynch,   Consultant neurointerventional radiologist, Kings College Hospital, United Kingdom |
+

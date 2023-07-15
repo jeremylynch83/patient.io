@@ -23,11 +23,22 @@ Brain aneurysms are present in about 3% of the population (3 in 100 people) [1].
 5. Autosomal Dominant Polycystic Kidney Disease (ADPKD)
 6. Sickle cell disease. 
 
-[1] Vlak MH, Algra A, Brandenburg R, Rinkel GJ. Prevalence of unruptured intracranial aneurysms, with emphasis on sex, age, comorbidity, country, and time period: a systematic review and meta-analysis. Lancet Neurol. 2011 Jul;10(7):626-36. 
-
-[2] Juvela S. Prevalence of and risk factors for intracranial aneurysms. Lancet Neurol. 2011 Jul;10(7):595-7. doi: 10.1016/S1474-4422(11)70125-9. PMID: 21641283.
 
 
 ## Are brain aneurysms dangerous?
 
 Most aneurysms cause no symptoms or problems to an individual. Some aneurysms can, however, cause symptoms such as double vision, seizures, or strokes without rupturing. These effects are caused by inflammation or pressure on the surrounding brain, or due to the development of blood clots. The most serious consequence of aneurysms is sudden rupture and bleeding around the brain which is called subarachnoid haemorrhage. 
+
+## References
+
+[1] Vlak MH, Algra A, Brandenburg R, Rinkel GJ. Prevalence of unruptured intracranial aneurysms, with emphasis on sex, age, comorbidity, country, and time period: a systematic review and meta-analysis. Lancet Neurol. 2011 Jul;10(7):626-36. 
+
+[2] Juvela S. Prevalence of and risk factors for intracranial aneurysms. Lancet Neurol. 2011 Jul;10(7):595-7. doi: 10.1016/S1474-4422(11)70125-9. PMID: 21641283.
+
+
+
+---
+| Article author   |
+| ---------------- |
+| Dr Jeremy Lynch,   Consultant neurointerventional radiologist, Kings College Hospital, United Kingdom |
+

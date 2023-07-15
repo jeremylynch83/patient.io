@@ -29,6 +29,12 @@ The National Institute for Health and Care Excellence (NICE) recommends endovasc
 Patients who survive aneurysm rupture may be left with permanent disabilities, such as weakness in the face, hands, or legs, or speech or visual difficulties. Patients  may also experience more vague symptoms that persist over time, such as a reduced ability to concentrate and frequent headaches.
 
 
+<div style="text-align: center; margin-top: 50px;">
+    <hr>
+    <p><strong>Author:</strong> Dr Jeremy Lynch</p>
+    <p><strong>Role:</strong> Consultant Neurointerventional Radiologist</p>
+    <p>Kings College Hospital, United Kingdom</p>
+</div>
 
 ## References
 
@@ -36,8 +42,8 @@ Patients who survive aneurysm rupture may be left with permanent disabilities, s
 
 [2] Molyneux AJ, Birks J, Clarke A, Sneade M, Kerr RS. The durability of endovascular coiling versus neurosurgical clipping of ruptured brain aneurysms: 18 year follow-up of the UK cohort of the International Subarachnoid Aneurysm Trial (ISAT). Lancet. 2015 Feb 21;385(9969):691-7. 
 
-## Article details
-
+---
 | Article author   |
 | ---------------- |
 | Dr Jeremy Lynch,   Consultant neurointerventional radiologist, Kings College Hospital, United Kingdom |
+

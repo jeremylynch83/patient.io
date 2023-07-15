@@ -1,33 +1,28 @@
 ---
-title: "Introduction to brain aneurysms"
+title: "Introduction of spinal vascular malformations"
 #image: "/images/covid-19.jpg"
 ---
 
-## What is an aneurysm?
+Spinal vascular malformations are uncommon conditions that involve abnormal connections between blood vessels in your spinal cord. They are essential to recognize because, if left undiagnosed and untreated, they can lead to serious complications. Symptoms can vary from person to person and can include pain, numbness, weakness, or difficulty moving your limbs. Bladder and bowel function can be impaired. The process of diagnosing these conditions is frequently prolonged due to the gradual onset of symptoms and limited awareness of the disease among non-expert practitioners. Radiological investigation can also be challenging as these conditions can resemble other non-vascular processes. 
 
-An aneurysm is a bulge in the wall of a blood vessel caused by a small area of weakness. Aneurysms can occur in various parts of the body, but one of the most common locations is the brain. These are known as intracranial or cerebral aneurysms. This bulge can lead to the rupture of the aneurysm, resulting in severe bleeding around the brain called subarachnoid haemorrhage. 
-
-Brain aneurysms primarily affect middle aged and older  adults with a higher prevalence in women. They are extremely rare in children. The cause of aneurysms is unknown in most cases, although some individuals have a genetic predisposition to developing them. Aneurysms can also rarely develop after certain infections or trauma. 
+There are a number of different types.
 
 
-## What is the prevalence of brain aneurysms?
+## Arteriovenous Fistulae
 
-Brain aneurysms are present in about 3% of the population (3 in 100 people) [1]. There are some factors that increase this risk [2]: 
-
-
-
-1. Family history of intracranial aneurysm or subarachnoid haemorrhage.
-2. Atherosclerosis: This is a condition characterised by the buildup of plaque in the arteries. It is associated with an increased risk of brain aneurysms. Factors leading to atherosclerosis, such as smoking and high blood pressure, therefore also increase the risk. 
-3. Female gender: Women have a higher risk of developing brain aneurysms compared to men.
-4. Age: The risk of brain aneurysms may increase with age.
-5. Autosomal Dominant Polycystic Kidney Disease (ADPKD)
-6. Sickle cell disease. 
-
-[1] Vlak MH, Algra A, Brandenburg R, Rinkel GJ. Prevalence of unruptured intracranial aneurysms, with emphasis on sex, age, comorbidity, country, and time period: a systematic review and meta-analysis. Lancet Neurol. 2011 Jul;10(7):626-36. 
-
-[2] Juvela S. Prevalence of and risk factors for intracranial aneurysms. Lancet Neurol. 2011 Jul;10(7):595-7. doi: 10.1016/S1474-4422(11)70125-9. PMID: 21641283.
+Arteriovenous fistulae form when there is a direct connection between an artery and a vein, bypassing the capillaries. This abnormal shunting of blood can put additional pressure on your heart and blood vessels and can deprive tissues of the necessary oxygen and nutrients, leading to various symptoms such as pain or numbness.
 
 
-## Are brain aneurysms dangerous?
+## Arteriovenous Malformations (AVMs)
 
-Most aneurysms cause no symptoms or problems to an individual. Some aneurysms can, however, cause symptoms such as double vision, seizures, or strokes without rupturing. These effects are caused by inflammation or pressure on the surrounding brain, or due to the development of blood clots. The most serious consequence of aneurysms is sudden rupture and bleeding around the brain which is called subarachnoid haemorrhage. 
+AVMs are a tangled web of arteries and veins with no capillaries in between. These abnormalities can disrupt normal blood flow and oxygen circulation, causing nearby tissues to suffer. Over time, these vessels can enlarge and rupture, leading to bleeding into the spinal cord. This can cause sudden pain and other neurological issues.
+
+
+## Cavernous Malformations
+
+Cavernous malformations, also known as cavernomas, are clusters of abnormal, tiny blood vessels and larger, dilated vessels filled with slow-moving blood. They can form anywhere in the body, but when they occur in the spinal cord, they can compress neural structures leading to pain, numbness, or weakness in your limbs.
+
+## Capillary Telangiectasia
+
+Capillary telangiectasia involves clusters of widened capillaries that do not have a normal vessel wall. While they are typically the least symptomatic of spinal vascular malformations, they can occasionally put pressure on the spinal cord, causing symptoms such as difficulty walking or loss of bowel or bladder control.
+
