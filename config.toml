@@ -45,6 +45,12 @@ pluralizelisttitles = false
     parent     = "section.shortcodes"
 
 [[menu.main]]
+    name       = "Stroke"
+    url        = "/topics/stroke"
+    weight     = 1
+    parent     = "section.shortcodes"
+
+[[menu.main]]
     name       = "Dural arteriovenous fistula"
     url        = "/topics/davf"
     weight     = 1
