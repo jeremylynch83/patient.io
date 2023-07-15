@@ -9,6 +9,8 @@ An aneurysm is a bulge in the wall of a blood vessel caused by a small area of w
 
 Brain aneurysms primarily affect middle aged and older  adults with a higher prevalence in women. They are extremely rare in children. The cause of aneurysms is unknown in most cases, although some individuals have a genetic predisposition to developing them. Aneurysms can also rarely develop after certain infections or trauma. 
 
+{{< figure src="/img/aneurysm.svg">}}
+
 
 ## What is the prevalence of brain aneurysms?
 
@@ -27,13 +29,17 @@ Brain aneurysms are present in about 3% of the population (3 in 100 people) [1].
 
 ## Are brain aneurysms dangerous?
 
-Most aneurysms cause no symptoms or problems to an individual. Some aneurysms can, however, cause symptoms such as double vision, seizures, or strokes without rupturing. These effects are caused by inflammation or pressure on the surrounding brain, or due to the development of blood clots. The most serious consequence of aneurysms is sudden rupture and bleeding around the brain which is called subarachnoid haemorrhage. 
+Most aneurysms cause no symptoms or problems to an individual. 
+
+Some aneurysms can, however, cause symptoms such as double vision, seizures, or strokes without rupturing. These effects are caused by inflammation or pressure on the surrounding brain, or due to the development of blood clots. 
+
+The most serious consequence of aneurysms is sudden rupture and bleeding around the brain which is called subarachnoid haemorrhage. 
 
 ## References
 
-[1] Vlak MH, Algra A, Brandenburg R, Rinkel GJ. Prevalence of unruptured intracranial aneurysms, with emphasis on sex, age, comorbidity, country, and time period: a systematic review and meta-analysis. Lancet Neurol. 2011 Jul;10(7):626-36. 
+1. Vlak MH, Algra A, Brandenburg R, Rinkel GJ. Prevalence of unruptured intracranial aneurysms, with emphasis on sex, age, comorbidity, country, and time period: a systematic review and meta-analysis. Lancet Neurol. 2011 Jul;10(7):626-36. 
 
-[2] Juvela S. Prevalence of and risk factors for intracranial aneurysms. Lancet Neurol. 2011 Jul;10(7):595-7. doi: 10.1016/S1474-4422(11)70125-9. PMID: 21641283.
+2. Juvela S. Prevalence of and risk factors for intracranial aneurysms. Lancet Neurol. 2011 Jul;10(7):595-7. doi: 10.1016/S1474-4422(11)70125-9. PMID: 21641283.
 
 
 

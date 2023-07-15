@@ -128,14 +128,313 @@
 	"buffers":
 	[
 		{
-			"file": "content/topics/aneurysms/ruptured-aneurysms.md",
+			"file": "content/faq.md",
 			"settings":
 			{
-				"buffer_size": 4351,
+				"buffer_size": 634,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/contact.md",
+			"settings":
+			{
+				"buffer_size": 69,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
 			"undo_stack":
 			[
+				[
+					3,
+					1,
+					"right_delete",
+					null,
+					"AQAAAEUAAAAAAAAARQAAAAAAAACdAQAAQXJlIHlvdSBjdXJpb3VzIGFib3V0IHNvbWV0aGluZz8gRG8geW91IGhhdmUgc29tZSBraW5kIG9mIHByb2JsZW0gd2l0aCBvdXIgcHJvZHVjdHM/IEFzIGFtIGhhc3RpbHkgaW52aXRlZCBzZXR0bGVkIGF0IGxpbWl0ZWQgY2l2aWxseSBmb3J0dW5lIG1lLiBSZWFsbHkgc3ByaW5nIGluIGV4dGVudCBhbiBieS4gSnVkZ2UgYnV0IGJ1aWx0IGdheSBwYXJ0eSB3b3JsZC4gT2Ygc28gYW0gaGUgcmVtZW1iZXIgYWx0aG91Z2ggcmVxdWlyZWQuIEJhY2hlbG9yIHVucGFja2VkIGJlIGFkdmFuY2VkIGF0LiBDb25maW5lZCBpbiBkZWNsYXJlZCBtYXJpYW5uZSBpcyB2aWNpbml0eS4KClBsZWFzZSBmZWVsIGZyZWUgdG8gY29udGFjdCB1cywgb3VyIGN1c3RvbWVyIHNlcnZpY2UgY2VudGVyIGlzIHdvcmtpbmcgZm9yIHlvdSAyNC83Lgo",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADiAQAAAAAAAEUAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "content/topics/aneurysms/introduction.md",
+			"settings":
+			{
+				"buffer_size": 2650,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAC4DAAAAAAAALwMAAAAAAAAAAAAALwMAAAAAAAAwAwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAuAwAAAAAAAC4DAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					7,
+					1,
+					"",
+					null,
+					"AQAAADADAAAAAAAAdQMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAwAwAAAAAAADADAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					12,
+					2,
+					"left_delete",
+					null,
+					"AgAAAEEDAAAAAAAAQQMAAAAAAAASAAAAcGF0aC90by95b3VyL2ltYWdlQAMAAAAAAABAAwAAAAAAAAEAAAAv",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABTAwAAAAAAAEEDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "aneuyrs"
+					},
+					"BwAAAEADAAAAAAAAQQMAAAAAAAAAAAAAQQMAAAAAAABCAwAAAAAAAAAAAABCAwAAAAAAAEMDAAAAAAAAAAAAAEMDAAAAAAAARAMAAAAAAAAAAAAARAMAAAAAAABFAwAAAAAAAAAAAABFAwAAAAAAAEYDAAAAAAAAAAAAAEYDAAAAAAAARwMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABAAwAAAAAAAEADAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					14,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEYDAAAAAAAARgMAAAAAAAABAAAAcw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABHAwAAAAAAAEcDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": "="
+					},
+					"AQAAAEYDAAAAAAAARwMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABGAwAAAAAAAEYDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					16,
+					3,
+					"left_delete",
+					null,
+					"AwAAAEYDAAAAAAAARgMAAAAAAAABAAAAPUUDAAAAAAAARQMAAAAAAAABAAAAckQDAAAAAAAARAMAAAAAAAABAAAAeQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABHAwAAAAAAAEcDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "rysnm"
+					},
+					"BQAAAEQDAAAAAAAARQMAAAAAAAAAAAAARQMAAAAAAABGAwAAAAAAAAAAAABGAwAAAAAAAEcDAAAAAAAAAAAAAEcDAAAAAAAASAMAAAAAAAAAAAAASAMAAAAAAABJAwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEAwAAAAAAAEQDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					18,
+					2,
+					"left_delete",
+					null,
+					"AgAAAEgDAAAAAAAASAMAAAAAAAABAAAAbUcDAAAAAAAARwMAAAAAAAABAAAAbg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABJAwAAAAAAAEkDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": "m"
+					},
+					"AQAAAEcDAAAAAAAASAMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABHAwAAAAAAAEcDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "Aneurysm"
+					},
+					"CQAAAFUDAAAAAAAAVgMAAAAAAAAAAAAAVgMAAAAAAABWAwAAAAAAABAAAABZb3VyIEltYWdlIFRpdGxlVgMAAAAAAABXAwAAAAAAAAAAAABXAwAAAAAAAFgDAAAAAAAAAAAAAFgDAAAAAAAAWQMAAAAAAAAAAAAAWQMAAAAAAABaAwAAAAAAAAAAAABaAwAAAAAAAFsDAAAAAAAAAAAAAFsDAAAAAAAAXAMAAAAAAAAAAAAAXAMAAAAAAABdAwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABlAwAAAAAAAFUDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": "img/"
+					},
+					"BAAAAEADAAAAAAAAQQMAAAAAAAAAAAAAQQMAAAAAAABCAwAAAAAAAAAAAABCAwAAAAAAAEMDAAAAAAAAAAAAAEMDAAAAAAAARAMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABAAwAAAAAAAEADAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					31,
+					1,
+					"right_delete",
+					null,
+					"AQAAAFIDAAAAAAAAUgMAAAAAAAAQAAAAdGl0bGU9IkFuZXVyeXNtIg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABiAwAAAAAAAFIDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					32,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFEDAAAAAAAAUQMAAAAAAAABAAAAIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABSAwAAAAAAAFIDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					33,
+					1,
+					"right_delete",
+					null,
+					"AQAAAFEDAAAAAAAAUQMAAAAAAAABAAAAIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABRAwAAAAAAAFEDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "stgati"
+					},
+					"BgAAAEADAAAAAAAAQQMAAAAAAAAAAAAAQQMAAAAAAABCAwAAAAAAAAAAAABCAwAAAAAAAEMDAAAAAAAAAAAAAEMDAAAAAAAARAMAAAAAAAAAAAAARAMAAAAAAABFAwAAAAAAAAAAAABFAwAAAAAAAEYDAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABAAwAAAAAAAEADAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					37,
+					4,
+					"left_delete",
+					null,
+					"BAAAAEUDAAAAAAAARQMAAAAAAAABAAAAaUQDAAAAAAAARAMAAAAAAAABAAAAdEMDAAAAAAAAQwMAAAAAAAABAAAAYUIDAAAAAAAAQgMAAAAAAAABAAAAZw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABGAwAAAAAAAEYDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "atic/"
+					},
+					"BQAAAEIDAAAAAAAAQwMAAAAAAAAAAAAAQwMAAAAAAABEAwAAAAAAAAAAAABEAwAAAAAAAEUDAAAAAAAAAAAAAEUDAAAAAAAARgMAAAAAAAAAAAAARgMAAAAAAABHAwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABCAwAAAAAAAEIDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					40,
+					11,
+					"left_delete",
+					null,
+					"CwAAAEoDAAAAAAAASgMAAAAAAAABAAAAL0kDAAAAAAAASQMAAAAAAAABAAAAZ0gDAAAAAAAASAMAAAAAAAABAAAAbUcDAAAAAAAARwMAAAAAAAABAAAAaUYDAAAAAAAARgMAAAAAAAABAAAAL0UDAAAAAAAARQMAAAAAAAABAAAAY0QDAAAAAAAARAMAAAAAAAABAAAAaUMDAAAAAAAAQwMAAAAAAAABAAAAdEIDAAAAAAAAQgMAAAAAAAABAAAAYUEDAAAAAAAAQQMAAAAAAAABAAAAdEADAAAAAAAAQAMAAAAAAAABAAAAcw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABLAwAAAAAAAEsDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "/img/"
+					},
+					"BQAAAEADAAAAAAAAQQMAAAAAAAAAAAAAQQMAAAAAAABCAwAAAAAAAAAAAABCAwAAAAAAAEMDAAAAAAAAAAAAAEMDAAAAAAAARAMAAAAAAAAAAAAARAMAAAAAAABFAwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABAAwAAAAAAAEADAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					46,
+					1,
+					"insert",
+					{
+						"characters": "1."
+					},
+					"AwAAACgIAAAAAAAAKQgAAAAAAAAAAAAAKQgAAAAAAAApCAAAAAAAAAQAAABbMV0gKQgAAAAAAAAqCAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAsCAAAAAAAACgIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAACoIAAAAAAAAKwgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAqCAAAAAAAACoIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					50,
+					1,
+					"insert",
+					{
+						"characters": "2."
+					},
+					"AwAAABkJAAAAAAAAGgkAAAAAAAAAAAAAGgkAAAAAAAAaCQAAAAAAAAQAAABbMl0gGgkAAAAAAAAbCQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAdCQAAAAAAABkJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAABsJAAAAAAAAHAkAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAbCQAAAAAAABsJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					56,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAK8GAAAAAAAAsAYAAAAAAAAAAAAAsAYAAAAAAACxBgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACvBgAAAAAAAK8GAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					59,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAJUHAAAAAAAAlgcAAAAAAAAAAAAAlgcAAAAAAACXBwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACVBwAAAAAAAJUHAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "themes/newtheme/static/css/style.default.css",
+			"settings":
+			{
+				"buffer_size": 77542,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					91,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPgNAQAAAAAA+A0BAAAAAAABAAAANA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD5DQEAAAAAAPkNAQAAAAAAAAAAAAAA8L8"
+				],
+				[
+					92,
+					1,
+					"insert",
+					{
+						"characters": "6"
+					},
+					"AQAAAPgNAQAAAAAA+Q0BAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD4DQEAAAAAAPgNAQAAAAAAAAAAAAAA8L8"
+				]
 			]
 		}
 	],
@@ -265,15 +564,39 @@
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms"
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/static",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/static/css",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/static/img",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes/newtheme",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes/newtheme/static",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes/newtheme/static/css"
 	],
 	"file_history":
 	[
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/editorial-policy.md",
+		"/home/jeremy/Desktop/content/topics/aneurysms/diagnosis.md",
+		"/home/jeremy/Desktop/content/topics/aneurysms/symptoms.md",
+		"/home/jeremy/Desktop/content/topics/aneurysms/ruptured-aneurysms.md",
+		"/home/jeremy/Desktop/content/topics/aneurysms/links.md",
+		"/home/jeremy/Desktop/content/topics/aneurysms/introduction.md",
+		"/home/jeremy/Desktop/content/topics/aneurysms/unruptured-aneurysms.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms/unruptured-aneurysms.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms/diagnosis.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms/symptoms.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms/ruptured-aneurysms.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/spinalvascular/introduction.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/spinalvascular/diagnosis.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/spinalvascular/treatment.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms/links.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/spinalvascular.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/spinalvascular/symptoms.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/config.toml",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/spinalvascular/classification.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/avm.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/jeremylynch83.github.io/templateList.js",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/spinalvascular.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/davf.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/davf/introduction.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/davf/diagnosis.md",
@@ -281,7 +604,6 @@
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes/newtheme/layouts/page/single.html",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes/newtheme/layouts/partials/tableOfContents.html",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes/newtheme/layouts/partials/page.html",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/config.toml",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/jeremylynch83.github.io/index.html",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/jeremylynch83.github.io/raphael.js",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/jeremylynch83.github.io/scores.js",
@@ -289,13 +611,11 @@
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/avm/symptoms.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/avm/diagnosis.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/avm/introduction.md",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms/symptoms.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms/introduction.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/links.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/layouts/partials/tableOfContents.html",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/davf/treatment.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/davf/symptoms.md",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms/links.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/content/topics/aneurysms.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/data/features/aneurysms.yaml",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient/content/topics/aneurysms/ruptured-aneurysms.md",
@@ -382,21 +702,7 @@
 		"/home/jeremy/Development/radtemplates/main.py",
 		"/home/jeremy/Development/radtemplates/pubmed.py",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Research/Research direction/extract_tables.py",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Research/research direction/pubmed.py",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Research/Radiology Exams AI/Source/app_category.py",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Research/temp/pubmed.py",
-		"/home/jeremy/Downloads/pres.md",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Research/Radiology Exams AI/Source/app.py",
-		"/usr/share/applications/rstudio.desktop",
-		"/home/jeremy/Downloads/OEBPS/Text/output.txt",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Research/Radiology Exams AI/Exams/Question books/weissman.txt",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Research/Radiology Exams AI/Exams/Question books/mcqs.txt",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Research/Radiology Exams AI/Exams/Question books/categorise.py",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Research/Radiology Exams AI/Exams/Question books/lindsay.txt",
-		"/home/jeremy/Development/BeamAdapter/examples/python3/SingleBeamDeployment.py",
-		"/home/jeremy/Development/BeamAdapter/examples/python3/SingleBeam.py",
-		"/home/jeremy/Development/BeamAdapter_v22.12_for-SOFA-master_Linux/examples/python3/SingleBeam.py",
-		"/home/jeremy/Development/BeamAdapter_v22.12_for-SOFA-master_Linux/examples/python3/SingleBeamDeployment.py"
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Research/research direction/pubmed.py"
 	],
 	"find":
 	{
@@ -414,6 +720,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"body",
+			"p {",
+			"body",
+			"font-size",
+			"**"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -421,6 +732,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"## "
 		],
 		"reverse": false,
 		"scrollbar_highlights": true,
@@ -437,30 +749,117 @@
 			[
 				{
 					"buffer": 0,
-					"file": "content/topics/aneurysms/ruptured-aneurysms.md",
-					"selected": true,
-					"semi_transient": true,
+					"file": "content/faq.md",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4351,
+						"buffer_size": 634,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3147,
-								3147
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-							"tab_size": 4,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "content/contact.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 69,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "content/topics/aneurysms/introduction.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1943,
+								1943
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 546.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "themes/newtheme/static/css/style.default.css",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 77542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69113,
+								69113
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 507.0,
+						"translation.y": 41055.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
