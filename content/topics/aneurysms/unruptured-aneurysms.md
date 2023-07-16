@@ -51,22 +51,34 @@ Endovascular treatment is a minimally invasive procedure to treat aneurysms. Rat
 
 ## What is coil embolisation?
 
+
+
 Coil embolisation, also known as endovascular coiling, is a procedure to treat brain aneurysms. The process is minimally invasive and is a proven technique to prevent the rupture of the aneurysm.
 
 The procedure starts with the patient being placed under general anesthesia so that they do not experience any pain during the operation. The doctor then makes a small incision, typically in the wrist or groin, to access a blood vessel. Following this, the doctor inserts a long, thin tube, called a catheter, through the incision into the blood vessel. Using a method called fluoroscopy, which involves real-time X-ray imaging, the doctor is able to navigate the catheter through the patient's vascular system until it reaches the blood vessels of the brain where the aneurysm is located.
 
 Once the catheter is in position, small platinum coils are threaded through the catheter and into the aneurysm. These coils are soft and flexible, allowing them to adapt to the shape of the aneurysm. The role of the coils is to promote the formation of blood clots within the aneurysm. As the blood comes into contact with the coils, it begins to clot, gradually filling up the aneurysm over time. This process effectively isolates the aneurysm from the rest of the circulatory system, thus preventing it from rupturing. The coils are left in place and do not need to be removed. 
 
+<div class="responsive-image">
+{{< figure src="/img/aneurysm coiling.svg">}}
+</div>
+
 After the coils are properly placed, the catheter is carefully withdrawn from the body. The patient is usually required to stay in the hospital for the night following the procedure to enable the medical team to monitor the recovery.
 
 
 ## What is stent assisted coiling?
+
+
 
 Stent-assisted coiling involves the insertion of a small, mesh-like tube called a stent in addition to tiny coils to treat the aneurysm.
 
 Similar to coil embolisation, a tiny catheter is navigated through the blood vessels, starting from an access point typically in the wrist or groin, all the way up to the site of the aneurysm in the brain. A stent is then placed across the opening of the aneurysm, acting like a small scaffold that provides support to the blood vessel wall, which can be weakened due to the aneurysm.
 
 Once the stent is in place, small coils are threaded through the catheter and placed into the aneurysm. The coils promote blood clotting, thereby filling the aneurysm and preventing it from rupturing. The stent helps to hold these coils in place and prevents them from slipping into the normal blood vessel. It's particularly useful in treating wide-neck aneurysms, where the risk of coils slipping into the parent vessel (the blood vessel supplying the aneurysm) is higher.
+
+<div class="responsive-image">
+{{< figure src="/img/stent-coiling.svg">}}
+</div>
 
 After the procedure, you will likely need to take antiplatelet medications such as aspirin or clopidogrel, which help to prevent the formation of blood clots around the stent. This is a routine precaution and an important part of ensuring the success of the procedure. Antiplatelet medications are given in low doses and make the platelets in your blood less sticky, reducing the chance that a clot will form. 
 
@@ -78,6 +90,10 @@ Flow diversion is another minimally invasive endovascular treatment designed to 
 A flow diverter, similar to a stent, is a small tubular mesh device that's placed inside the parent artery, the blood vessel supplying the aneurysm. The flow diverter is designed to alter the blood flow dynamics in the artery, thereby diverting blood away from the aneurysm. They can be used with or without placement of coils in the aneurysm.
 
 Over time, this decreased blood flow into the aneurysm encourages the formation of a blood clot within the aneurysm, which helps to seal it off from the rest of the blood vessel. As the aneurysm shrinks and heals, the artery resumes a more normal shape and function. This process can take several weeks to months.
+
+<div class="responsive-image">
+{{< figure src="/img/flow-diversion.svg">}}
+</div>
 
 Flow diversion is particularly effective for recurrent, large, wide-necked, or thrombosed aneurysms that can't be adequately treated with other methods. It is also necessary to take antiplatelets after insertion of flow diverters. 
 
