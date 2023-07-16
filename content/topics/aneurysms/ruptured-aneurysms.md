@@ -23,8 +23,9 @@ Ruptured aneurysms require immediate treatment to prevent further bleeding, as t
 
 The National Institute for Health and Care Excellence (NICE) recommends endovascular treatment for aneurysmal rupture if it is an option due to the significantly improved chance of survival following the treatment [1]. Moreover, patients have a higher likelihood of living independently for at least ten years post-treatment, coupled with a considerably reduced risk of developing seizures. This is based on evidence from high-quality clinical trials (the International Subarachnoid Aneurysm Trial) conducted over a period of 16 years [2]. 
 
-{{< figure src="/img/aneurysm coiling.svg">}}
-
+<div class="responsive-image">
+    {{< figure src="/img/aneurysm coiling.svg">}}
+</div>
 
 
 ## What are the long-term consequences of aneurysm rupture?
