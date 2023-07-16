@@ -128,38 +128,13 @@
 	"buffers":
 	[
 		{
-			"file": "content/faq.md",
+			"contents": "weight: 2\nname: \"Further information\"\nicon: \"fas fa-desktop\"\nurl: \"/topics/links\"\ndescription: \"Links to further patient resources.\"\n",
+			"file": "data/features/furtherinfo.yaml",
+			"file_size": 133,
+			"file_write_time": 133340028694970736,
 			"settings":
 			{
-				"buffer_size": 634,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "content/contact.md",
-			"settings":
-			{
-				"buffer_size": 69,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-				[
-					3,
-					1,
-					"right_delete",
-					null,
-					"AQAAAEUAAAAAAAAARQAAAAAAAACdAQAAQXJlIHlvdSBjdXJpb3VzIGFib3V0IHNvbWV0aGluZz8gRG8geW91IGhhdmUgc29tZSBraW5kIG9mIHByb2JsZW0gd2l0aCBvdXIgcHJvZHVjdHM/IEFzIGFtIGhhc3RpbHkgaW52aXRlZCBzZXR0bGVkIGF0IGxpbWl0ZWQgY2l2aWxseSBmb3J0dW5lIG1lLiBSZWFsbHkgc3ByaW5nIGluIGV4dGVudCBhbiBieS4gSnVkZ2UgYnV0IGJ1aWx0IGdheSBwYXJ0eSB3b3JsZC4gT2Ygc28gYW0gaGUgcmVtZW1iZXIgYWx0aG91Z2ggcmVxdWlyZWQuIEJhY2hlbG9yIHVucGFja2VkIGJlIGFkdmFuY2VkIGF0LiBDb25maW5lZCBpbiBkZWNsYXJlZCBtYXJpYW5uZSBpcyB2aWNpbml0eS4KClBsZWFzZSBmZWVsIGZyZWUgdG8gY29udGFjdCB1cywgb3VyIGN1c3RvbWVyIHNlcnZpY2UgY2VudGVyIGlzIHdvcmtpbmcgZm9yIHlvdSAyNC83Lgo",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADiAQAAAAAAAEUAAAAAAAAAAAAAAAAA8L8"
-				]
-			]
-		},
-		{
-			"file": "content/topics/aneurysms/introduction.md",
-			"settings":
-			{
-				"buffer_size": 2650,
+				"buffer_size": 133,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
@@ -170,270 +145,827 @@
 					1,
 					"insert",
 					{
-						"characters": "\n\n"
+						"characters": "topics/links"
 					},
-					"AgAAAC4DAAAAAAAALwMAAAAAAAAAAAAALwMAAAAAAAAwAwAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAuAwAAAAAAAC4DAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					7,
-					1,
-					"",
-					null,
-					"AQAAADADAAAAAAAAdQMAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAwAwAAAAAAADADAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					12,
-					2,
-					"left_delete",
-					null,
-					"AgAAAEEDAAAAAAAAQQMAAAAAAAASAAAAcGF0aC90by95b3VyL2ltYWdlQAMAAAAAAABAAwAAAAAAAAEAAAAv",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABTAwAAAAAAAEEDAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					13,
-					1,
-					"insert",
-					{
-						"characters": "aneuyrs"
-					},
-					"BwAAAEADAAAAAAAAQQMAAAAAAAAAAAAAQQMAAAAAAABCAwAAAAAAAAAAAABCAwAAAAAAAEMDAAAAAAAAAAAAAEMDAAAAAAAARAMAAAAAAAAAAAAARAMAAAAAAABFAwAAAAAAAAAAAABFAwAAAAAAAEYDAAAAAAAAAAAAAEYDAAAAAAAARwMAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABAAwAAAAAAAEADAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					14,
-					1,
-					"left_delete",
-					null,
-					"AQAAAEYDAAAAAAAARgMAAAAAAAABAAAAcw",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABHAwAAAAAAAEcDAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					15,
-					1,
-					"insert",
-					{
-						"characters": "="
-					},
-					"AQAAAEYDAAAAAAAARwMAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABGAwAAAAAAAEYDAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					16,
-					3,
-					"left_delete",
-					null,
-					"AwAAAEYDAAAAAAAARgMAAAAAAAABAAAAPUUDAAAAAAAARQMAAAAAAAABAAAAckQDAAAAAAAARAMAAAAAAAABAAAAeQ",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABHAwAAAAAAAEcDAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					17,
-					1,
-					"insert",
-					{
-						"characters": "rysnm"
-					},
-					"BQAAAEQDAAAAAAAARQMAAAAAAAAAAAAARQMAAAAAAABGAwAAAAAAAAAAAABGAwAAAAAAAEcDAAAAAAAAAAAAAEcDAAAAAAAASAMAAAAAAAAAAAAASAMAAAAAAABJAwAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEAwAAAAAAAEQDAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					18,
-					2,
-					"left_delete",
-					null,
-					"AgAAAEgDAAAAAAAASAMAAAAAAAABAAAAbUcDAAAAAAAARwMAAAAAAAABAAAAbg",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABJAwAAAAAAAEkDAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					19,
-					1,
-					"insert",
-					{
-						"characters": "m"
-					},
-					"AQAAAEcDAAAAAAAASAMAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABHAwAAAAAAAEcDAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					24,
-					1,
-					"insert",
-					{
-						"characters": "Aneurysm"
-					},
-					"CQAAAFUDAAAAAAAAVgMAAAAAAAAAAAAAVgMAAAAAAABWAwAAAAAAABAAAABZb3VyIEltYWdlIFRpdGxlVgMAAAAAAABXAwAAAAAAAAAAAABXAwAAAAAAAFgDAAAAAAAAAAAAAFgDAAAAAAAAWQMAAAAAAAAAAAAAWQMAAAAAAABaAwAAAAAAAAAAAABaAwAAAAAAAFsDAAAAAAAAAAAAAFsDAAAAAAAAXAMAAAAAAAAAAAAAXAMAAAAAAABdAwAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABlAwAAAAAAAFUDAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					28,
-					1,
-					"insert",
-					{
-						"characters": "img/"
-					},
-					"BAAAAEADAAAAAAAAQQMAAAAAAAAAAAAAQQMAAAAAAABCAwAAAAAAAAAAAABCAwAAAAAAAEMDAAAAAAAAAAAAAEMDAAAAAAAARAMAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABAAwAAAAAAAEADAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					31,
-					1,
-					"right_delete",
-					null,
-					"AQAAAFIDAAAAAAAAUgMAAAAAAAAQAAAAdGl0bGU9IkFuZXVyeXNtIg",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABiAwAAAAAAAFIDAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					32,
-					1,
-					"left_delete",
-					null,
-					"AQAAAFEDAAAAAAAAUQMAAAAAAAABAAAAIA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABSAwAAAAAAAFIDAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					33,
-					1,
-					"right_delete",
-					null,
-					"AQAAAFEDAAAAAAAAUQMAAAAAAAABAAAAIA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABRAwAAAAAAAFEDAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					36,
-					1,
-					"insert",
-					{
-						"characters": "stgati"
-					},
-					"BgAAAEADAAAAAAAAQQMAAAAAAAAAAAAAQQMAAAAAAABCAwAAAAAAAAAAAABCAwAAAAAAAEMDAAAAAAAAAAAAAEMDAAAAAAAARAMAAAAAAAAAAAAARAMAAAAAAABFAwAAAAAAAAAAAABFAwAAAAAAAEYDAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABAAwAAAAAAAEADAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					37,
-					4,
-					"left_delete",
-					null,
-					"BAAAAEUDAAAAAAAARQMAAAAAAAABAAAAaUQDAAAAAAAARAMAAAAAAAABAAAAdEMDAAAAAAAAQwMAAAAAAAABAAAAYUIDAAAAAAAAQgMAAAAAAAABAAAAZw",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABGAwAAAAAAAEYDAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					38,
-					1,
-					"insert",
-					{
-						"characters": "atic/"
-					},
-					"BQAAAEIDAAAAAAAAQwMAAAAAAAAAAAAAQwMAAAAAAABEAwAAAAAAAAAAAABEAwAAAAAAAEUDAAAAAAAAAAAAAEUDAAAAAAAARgMAAAAAAAAAAAAARgMAAAAAAABHAwAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABCAwAAAAAAAEIDAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					40,
-					11,
-					"left_delete",
-					null,
-					"CwAAAEoDAAAAAAAASgMAAAAAAAABAAAAL0kDAAAAAAAASQMAAAAAAAABAAAAZ0gDAAAAAAAASAMAAAAAAAABAAAAbUcDAAAAAAAARwMAAAAAAAABAAAAaUYDAAAAAAAARgMAAAAAAAABAAAAL0UDAAAAAAAARQMAAAAAAAABAAAAY0QDAAAAAAAARAMAAAAAAAABAAAAaUMDAAAAAAAAQwMAAAAAAAABAAAAdEIDAAAAAAAAQgMAAAAAAAABAAAAYUEDAAAAAAAAQQMAAAAAAAABAAAAdEADAAAAAAAAQAMAAAAAAAABAAAAcw",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABLAwAAAAAAAEsDAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					43,
-					1,
-					"insert",
-					{
-						"characters": "/img/"
-					},
-					"BQAAAEADAAAAAAAAQQMAAAAAAAAAAAAAQQMAAAAAAABCAwAAAAAAAAAAAABCAwAAAAAAAEMDAAAAAAAAAAAAAEMDAAAAAAAARAMAAAAAAAAAAAAARAMAAAAAAABFAwAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABAAwAAAAAAAEADAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					46,
-					1,
-					"insert",
-					{
-						"characters": "1."
-					},
-					"AwAAACgIAAAAAAAAKQgAAAAAAAAAAAAAKQgAAAAAAAApCAAAAAAAAAQAAABbMV0gKQgAAAAAAAAqCAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAsCAAAAAAAACgIAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					47,
-					1,
-					"insert",
-					{
-						"characters": " "
-					},
-					"AQAAACoIAAAAAAAAKwgAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAqCAAAAAAAACoIAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					50,
-					1,
-					"insert",
-					{
-						"characters": "2."
-					},
-					"AwAAABkJAAAAAAAAGgkAAAAAAAAAAAAAGgkAAAAAAAAaCQAAAAAAAAQAAABbMl0gGgkAAAAAAAAbCQAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAdCQAAAAAAABkJAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					51,
-					1,
-					"insert",
-					{
-						"characters": " "
-					},
-					"AQAAABsJAAAAAAAAHAkAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAbCQAAAAAAABsJAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					56,
-					1,
-					"insert",
-					{
-						"characters": "\n\n"
-					},
-					"AgAAAK8GAAAAAAAAsAYAAAAAAAAAAAAAsAYAAAAAAACxBgAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACvBgAAAAAAAK8GAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					59,
-					1,
-					"insert",
-					{
-						"characters": "\n\n"
-					},
-					"AgAAAJUHAAAAAAAAlgcAAAAAAAAAAAAAlgcAAAAAAACXBwAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACVBwAAAAAAAJUHAAAAAAAAAAAAAAAA8L8"
+					"DQAAAEQAAAAAAAAARQAAAAAAAAAAAAAARQAAAAAAAABFAAAAAAAAAAMAAABmYXFFAAAAAAAAAEYAAAAAAAAAAAAAAEYAAAAAAAAARwAAAAAAAAAAAAAARwAAAAAAAABIAAAAAAAAAAAAAABIAAAAAAAAAEkAAAAAAAAAAAAAAEkAAAAAAAAASgAAAAAAAAAAAAAASgAAAAAAAABLAAAAAAAAAAAAAABLAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAATQAAAAAAAAAAAAAATQAAAAAAAABOAAAAAAAAAAAAAABOAAAAAAAAAE8AAAAAAAAAAAAAAE8AAAAAAAAAUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARAAAAAAAAABHAAAAAAAAAAAAAAAAAPC/"
 				]
 			]
 		},
 		{
-			"file": "themes/newtheme/static/css/style.default.css",
+			"file": "config.toml",
 			"settings":
 			{
-				"buffer_size": 77542,
+				"buffer_size": 7347,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
 			"undo_stack":
 			[
 				[
-					91,
-					1,
-					"left_delete",
-					null,
-					"AQAAAPgNAQAAAAAA+A0BAAAAAAABAAAANA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD5DQEAAAAAAPkNAQAAAAAAAAAAAAAA8L8"
-				],
-				[
-					92,
+					23,
 					1,
 					"insert",
 					{
-						"characters": "6"
+						"characters": "contact"
 					},
-					"AQAAAPgNAQAAAAAA+Q0BAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD4DQEAAAAAAPgNAQAAAAAAAAAAAAAA8L8"
+					"CAAAAKcbAAAAAAAAqBsAAAAAAAAAAAAAqBsAAAAAAACoGwAAAAAAAAMAAABmYXGoGwAAAAAAAKkbAAAAAAAAAAAAAKkbAAAAAAAAqhsAAAAAAAAAAAAAqhsAAAAAAACrGwAAAAAAAAAAAACrGwAAAAAAAKwbAAAAAAAAAAAAAKwbAAAAAAAArRsAAAAAAAAAAAAArRsAAAAAAACuGwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApxsAAAAAAACqGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"right_delete",
+					null,
+					"AQAAAK4bAAAAAAAArhsAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAArhsAAAAAAACuGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAO0UAAAAAAAA7hQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7RQAAAAAAADtFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"",
+					null,
+					"AQAAAO4UAAAAAAAAfhUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7hQAAAAAAADuFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": "mainlins"
+					},
+					"CQAAAIUaAAAAAAAAhhoAAAAAAAAAAAAAhhoAAAAAAACGGgAAAAAAAAgAAABmZWF0dXJlc4YaAAAAAAAAhxoAAAAAAAAAAAAAhxoAAAAAAACIGgAAAAAAAAAAAACIGgAAAAAAAIkaAAAAAAAAAAAAAIkaAAAAAAAAihoAAAAAAAAAAAAAihoAAAAAAACLGgAAAAAAAAAAAACLGgAAAAAAAIwaAAAAAAAAAAAAAIwaAAAAAAAAjRoAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhRoAAAAAAACNGgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"insert",
+					{
+						"characters": "="
+					},
+					"AQAAAI0aAAAAAAAAjhoAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjRoAAAAAAACNGgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					2,
+					"left_delete",
+					null,
+					"AgAAAI0aAAAAAAAAjRoAAAAAAAABAAAAPYwaAAAAAAAAjBoAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAAjhoAAAAAAACOGgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": "ks"
+					},
+					"AgAAAIwaAAAAAAAAjRoAAAAAAAAAAAAAjRoAAAAAAACOGgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjBoAAAAAAACMGgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"insert",
+					{
+						"characters": "4"
+					},
+					"AQAAAK4aAAAAAAAArxoAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArhoAAAAAAACuGgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"left_delete",
+					null,
+					"AQAAAK0aAAAAAAAArRoAAAAAAAABAAAAMg",
+					"AQAAAAAAAAABAAAArhoAAAAAAACuGgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"left_delete",
+					null,
+					"AQAAAK0aAAAAAAAArRoAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAArhoAAAAAAACuGgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					1,
+					"insert",
+					{
+						"characters": "3"
+					},
+					"AQAAAK0aAAAAAAAArhoAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArRoAAAAAAACtGgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					124,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAAEIcAAAAAAAAQxwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQhwAAAAAAABCHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					128,
+					1,
+					"right_delete",
+					null,
+					"AQAAAEIcAAAAAAAAQhwAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAAQhwAAAAAAABCHAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					129,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAEIcAAAAAAAAQxwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQhwAAAAAAABCHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					132,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAACgcAAAAAAAAKRwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKBwAAAAAAAAoHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					135,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAOYbAAAAAAAA5xsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5hsAAAAAAADmGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					138,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAMUbAAAAAAAAxhsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxRsAAAAAAADFGwAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					141,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAKgbAAAAAAAAqRsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqBsAAAAAAACoGwAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					144,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAJYbAAAAAAAAlxsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlhsAAAAAAACWGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					147,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAIQbAAAAAAAAhRsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhBsAAAAAAACEGwAAAAAAAAAAAAAAAAAA"
+				]
+			]
+		},
+		{
+			"file": "themes/newtheme/layouts/partials/footer.html",
+			"settings":
+			{
+				"buffer_size": 2902,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "data/carousel/multipurpose.yaml",
+			"settings":
+			{
+				"buffer_size": 190,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					3,
+					"right_delete",
+					null,
+					"AwAAAEgAAAAAAAAASAAAAAAAAAAHAAAAUGF0aWVudEgAAAAAAAAASAAAAAAAAAABAAAAIEgAAAAAAAAASAAAAAAAAAABAAAAaQ",
+					"AQAAAAAAAAABAAAASAAAAAAAAABPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "I"
+					},
+					"AQAAAEgAAAAAAAAASQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": " for"
+					},
+					"BAAAAFMAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABVAAAAAAAAAAAAAABVAAAAAAAAAFYAAAAAAAAAAAAAAFYAAAAAAAAAVwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUwAAAAAAAABTAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFcAAAAAAAAAWAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVwAAAAAAAABXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAFQAAAAAAAAAVAAAAAAAAAAEAAAAZm9yIA",
+					"AQAAAAAAAAABAAAAWAAAAAAAAABYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "written"
+					},
+					"BwAAAFQAAAAAAAAAVQAAAAAAAAAAAAAAVQAAAAAAAABWAAAAAAAAAAAAAABWAAAAAAAAAFcAAAAAAAAAAAAAAFcAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABZAAAAAAAAAAAAAABZAAAAAAAAAFoAAAAAAAAAAAAAAFoAAAAAAAAAWwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVAAAAAAAAABUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFsAAAAAAAAAXAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWwAAAAAAAABbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAFQAAAAAAAAAVAAAAAAAAAAIAAAAd3JpdHRlbiA",
+					"AQAAAAAAAAABAAAAXAAAAAAAAABcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "for"
+					},
+					"AwAAAFQAAAAAAAAAVQAAAAAAAAAAAAAAVQAAAAAAAABWAAAAAAAAAAAAAABWAAAAAAAAAFcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVAAAAAAAAABUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": " patients"
+					},
+					"CQAAAFcAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABZAAAAAAAAAAAAAABZAAAAAAAAAFoAAAAAAAAAAAAAAFoAAAAAAAAAWwAAAAAAAAAAAAAAWwAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAF0AAAAAAAAAAAAAAF0AAAAAAAAAXgAAAAAAAAAAAAAAXgAAAAAAAABfAAAAAAAAAAAAAABfAAAAAAAAAGAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVwAAAAAAAABXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"insert",
+					{
+						"characters": "."
+					},
+					"AgAAAIwAAAAAAAAAjQAAAAAAAAAAAAAAjQAAAAAAAACNAAAAAAAAABQAAAAgYW5kIHRoZWlyIHRyZWF0bWVudA",
+					"AQAAAAAAAAABAAAAoAAAAAAAAACMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIwAAAAAAAAAjAAAAAAAAAABAAAALg",
+					"AQAAAAAAAAABAAAAjQAAAAAAAACNAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "data/mainlinks/spinal.yaml",
+			"settings":
+			{
+				"buffer_size": 155,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "Arterrio"
+					},
+					"CQAAABEAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAkAAABBbmV1cnlzbXMSAAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEQAAAAAAAAAaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					4,
+					"left_delete",
+					null,
+					"BAAAABgAAAAAAAAAGAAAAAAAAAABAAAAbxcAAAAAAAAAFwAAAAAAAAABAAAAaRYAAAAAAAAAFgAAAAAAAAABAAAAchUAAAAAAAAAFQAAAAAAAAABAAAAcg",
+					"AQAAAAAAAAABAAAAGQAAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "riovenous"
+					},
+					"CQAAABUAAAAAAAAAFgAAAAAAAAAAAAAAFgAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABsAAAAAAAAAAAAAABsAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFQAAAAAAAAAVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": " malformation"
+					},
+					"DQAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACEAAAAAAAAAAAAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACcAAAAAAAAAAAAAACcAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAApAAAAAAAAAAAAAAApAAAAAAAAACoAAAAAAAAAAAAAACoAAAAAAAAAKwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgAAAAAAAAAeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "AVM"
+					},
+					"BAAAAHkAAAAAAAAAegAAAAAAAAAAAAAAegAAAAAAAAB6AAAAAAAAAAkAAABhbmV1cnlzbXN6AAAAAAAAAHsAAAAAAAAAAAAAAHsAAAAAAAAAfAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeQAAAAAAAACCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "Stroke"
+					},
+					"BwAAABEAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAABoAAABBcnRlcmlvdmVub3VzIG1hbGZvcm1hdGlvbhIAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFgAAAAAAAAAAAAAAFgAAAAAAAAAXAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEQAAAAAAAAArAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "Stok"
+					},
+					"BQAAAGUAAAAAAAAAZgAAAAAAAAAAAAAAZgAAAAAAAABmAAAAAAAAAAMAAABBVk1mAAAAAAAAAGcAAAAAAAAAAAAAAGcAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABpAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZQAAAAAAAABoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					2,
+					"left_delete",
+					null,
+					"AgAAAGgAAAAAAAAAaAAAAAAAAAABAAAAa2cAAAAAAAAAZwAAAAAAAAABAAAAbw",
+					"AQAAAAAAAAABAAAAaQAAAAAAAABpAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "roke"
+					},
+					"BAAAAGcAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABpAAAAAAAAAAAAAABpAAAAAAAAAGoAAAAAAAAAAAAAAGoAAAAAAAAAawAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZwAAAAAAAABnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"insert",
+					{
+						"characters": "Spinal"
+					},
+					"BwAAABEAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAYAAABTdHJva2USAAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEQAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": " vascil;ar"
+					},
+					"CgAAABcAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABoAAAAAAAAAAAAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAIQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					5,
+					"left_delete",
+					null,
+					"BQAAACAAAAAAAAAAIAAAAAAAAAABAAAAch8AAAAAAAAAHwAAAAAAAAABAAAAYR4AAAAAAAAAHgAAAAAAAAABAAAAOx0AAAAAAAAAHQAAAAAAAAABAAAAbBwAAAAAAAAAHAAAAAAAAAABAAAAaQ",
+					"AQAAAAAAAAABAAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": "ulare"
+					},
+					"BQAAABwAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB8AAAAAAAAAAAAAAB8AAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAhAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"left_delete",
+					null,
+					"AQAAACAAAAAAAAAAIAAAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": " malformations"
+					},
+					"DgAAACAAAAAAAAAAIQAAAAAAAAAAAAAAIQAAAAAAAAAiAAAAAAAAAAAAAAAiAAAAAAAAACMAAAAAAAAAAAAAACMAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAlAAAAAAAAAAAAAAAlAAAAAAAAACYAAAAAAAAAAAAAACYAAAAAAAAAJwAAAAAAAAAAAAAAJwAAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAACkAAAAAAAAAAAAAACkAAAAAAAAAKgAAAAAAAAAAAAAAKgAAAAAAAAArAAAAAAAAAAAAAAArAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAALQAAAAAAAAAAAAAALQAAAAAAAAAuAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": "spinal"
+					},
+					"BwAAAHwAAAAAAAAAfQAAAAAAAAAAAAAAfQAAAAAAAAB9AAAAAAAAABoAAABTdHJva2UgYW5kIHRoZWlyIHRyZWF0bWVudH0AAAAAAAAAfgAAAAAAAAAAAAAAfgAAAAAAAAB/AAAAAAAAAAAAAAB/AAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAgQAAAAAAAAAAAAAAgQAAAAAAAACCAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfAAAAAAAAACWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": " vascular"
+					},
+					"CQAAAIIAAAAAAAAAgwAAAAAAAAAAAAAAgwAAAAAAAACEAAAAAAAAAAAAAACEAAAAAAAAAIUAAAAAAAAAAAAAAIUAAAAAAAAAhgAAAAAAAAAAAAAAhgAAAAAAAACHAAAAAAAAAAAAAACHAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAiQAAAAAAAAAAAAAAiQAAAAAAAACKAAAAAAAAAAAAAACKAAAAAAAAAIsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAggAAAAAAAACCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": " a"
+					},
+					"AgAAAIsAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACNAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiwAAAAAAAACLAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIwAAAAAAAAAjAAAAAAAAAABAAAAYQ",
+					"AQAAAAAAAAABAAAAjQAAAAAAAACNAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"insert",
+					{
+						"characters": "malfr"
+					},
+					"BQAAAIwAAAAAAAAAjQAAAAAAAAAAAAAAjQAAAAAAAACOAAAAAAAAAAAAAACOAAAAAAAAAI8AAAAAAAAAAAAAAI8AAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACRAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjAAAAAAAAACMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJAAAAAAAAAAkAAAAAAAAAABAAAAcg",
+					"AQAAAAAAAAABAAAAkQAAAAAAAACRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"insert",
+					{
+						"characters": "ormations"
+					},
+					"CQAAAJAAAAAAAAAAkQAAAAAAAAAAAAAAkQAAAAAAAACSAAAAAAAAAAAAAACSAAAAAAAAAJMAAAAAAAAAAAAAAJMAAAAAAAAAlAAAAAAAAAAAAAAAlAAAAAAAAACVAAAAAAAAAAAAAACVAAAAAAAAAJYAAAAAAAAAAAAAAJYAAAAAAAAAlwAAAAAAAAAAAAAAlwAAAAAAAACYAAAAAAAAAAAAAACYAAAAAAAAAJkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkAAAAAAAAACQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"right_delete",
+					null,
+					"AQAAAJkAAAAAAAAAmQAAAAAAAAABAAAALg",
+					"AQAAAAAAAAABAAAAmQAAAAAAAACZAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "static/css/custom.css",
+			"redo_stack":
+			[
+				[
+					8,
+					1,
+					"right_delete",
+					null,
+					"AQAAAMYAAAAAAAAA7AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxgAAAAAAAADGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"",
+					null,
+					"AQAAAHUCAAAAAAAAdQIAAAAAAADsAAAALyogUmVkdWNlcyBwYWRkaW5nIHdpdGhpbiBlYWNoIGNvbHVtbiAqLwouY29sLW1kLSwgLmNvbC0gewogICAgcGFkZGluZzogMCA1cHg7Cn0KCi8qIFJlZHVjZXMgbWFyZ2lucyBhcm91bmQgZWFjaCByb3cgKi8KLnJvdy0gewogICAgbWFyZ2luOiAwIC01cHg7Cn0KCi8qIFJlZHVjZXMgcGFkZGluZyB3aXRoaW4gdGhlIGJveC1zaW1wbGUgY2xhc3MgKi8KLmJveC1zaW1wbGUgewogICAgcGFkZGluZzogMTBweDsKfQo",
+					"AQAAAAAAAAABAAAAYQMAAAAAAABhAwAAAAAAAAAAAAAAAPC/"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 629,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAHQCAAAAAAAAdQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdAIAAAAAAAB0AgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "content/topics/aneurysms/links.md",
+			"settings":
+			{
+				"buffer_size": 1796,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AgAAAEMAAAAAAAAAgAkAAAAAAAAAAAAAgAkAAAAAAACACQAAAAAAAAUAAABMaW5rcw",
+					"AQAAAAAAAAABAAAASAAAAAAAAABDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					2,
+					"right_delete",
+					null,
+					"AgAAAFYAAAAAAAAAVgAAAAAAAABqAQAAKiBbRGlmZmVyZW50IFN0cm9rZXNdKGh0dHBzOi8vZGlmZmVyZW50c3Ryb2tlcy5jby51ay8pOiBEaWZmZXJlbnQgU3Ryb2tlcyBpcyBhIFVLIGJhc2VkIHN0cm9rZSBjaGFyaXR5IHJ1biBieSB5b3VuZ2VyIHN0cm9rZSBzdXJ2aXZvcnMgZm9yIHlvdW5nZXIgc3Ryb2tlIHN1cnZpdm9ycy4KCi0gW05hdGlvbmFsIFN0cm9rZSBBc3NvY2lhdGlvbl0oaHR0cHM6Ly93d3cuc3Ryb2tlLm9yZy8pOiBQcm92aWRlcyByZXNvdXJjZXMgb24gc3Ryb2tlIHByZXZlbnRpb24sIHRyZWF0bWVudCwgYW5kIHJlY292ZXJ5LCBhcyB3ZWxsIGFzIHJlc291cmNlcyBmb3IgaGVhbHRoY2FyZSBwcm9mZXNzaW9uYWxzIGFuZCBzdHJva2Ugc3Vydml2b3JzLgpWAAAAAAAAAFYAAAAAAAAAAQAAAAo",
+					"AQAAAAAAAAABAAAAVgAAAAAAAADAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					2,
+					"right_delete",
+					null,
+					"AgAAACkCAAAAAAAAKQIAAAAAAADtAAAALSBbQW1lcmljYW4gU3Ryb2tlIEFzc29jaWF0aW9uXShodHRwOi8vd3d3LnN0cm9rZWFzc29jaWF0aW9uLm9yZy8pOiBBIGRpdmlzaW9uIG9mIHRoZSBBbWVyaWNhbiBIZWFydCBBc3NvY2lhdGlvbi4gVGhpcyBzaXRlIHByb3ZpZGVzIGNvbXByZWhlbnNpdmUgaW5mb3JtYXRpb24gb24gYWxsIHR5cGVzIG9mIHN0cm9rZSwgaW5jbHVkaW5nIHJpc2sgZmFjdG9ycywgd2FybmluZyBzaWducywgYW5kIHRyZWF0bWVudC4KKQIAAAAAAAApAgAAAAAAAAEAAAAK",
+					"AQAAAAAAAAABAAAAKQIAAAAAAAAWAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAPkDAAAAAAAA+gMAAAAAAAAAAAAA+gMAAAAAAAD6AwAAAAAAAL0AAAAtIFtXb3JsZCBTdHJva2UgT3JnYW5pemF0aW9uXShodHRwczovL3d3dy53b3JsZC1zdHJva2Uub3JnLyk6IE9mZmVycyByZXNvdXJjZXMgYWJvdXQgc3Ryb2tlIGF3YXJlbmVzcywgcHJldmVudGlvbiwgYW5kIHRyZWF0bWVudCwgYXMgd2VsbCBhcyBzdG9yaWVzIGZyb20gc3Ryb2tlIHN1cnZpdm9ycyBhcm91bmQgdGhlIHdvcmxkLgo",
+					"AQAAAAAAAAABAAAA+QMAAAAAAAC2BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					2,
+					"right_delete",
+					null,
+					"AgAAAPoDAAAAAAAA+gMAAAAAAAABAAAACvoDAAAAAAAA+gMAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAA+gMAAAAAAAD6AwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "layouts/partials/mainlinks.html",
+			"settings":
+			{
+				"buffer_size": 1625,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					26,
+					1,
+					"",
+					null,
+					"AQAAAAwBAAAAAAAAFQEAAAAAAAAIAAAAZmVhdHVyZXM",
+					"AQAAAAAAAAABAAAADAEAAAAAAAAUAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"",
+					null,
+					"AQAAACoBAAAAAAAAMwEAAAAAAAAIAAAAZmVhdHVyZXM",
+					"AQAAAAAAAAABAAAAKgEAAAAAAAAyAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"",
+					null,
+					"AQAAAEcBAAAAAAAAUAEAAAAAAAAIAAAAZmVhdHVyZXM",
+					"AQAAAAAAAAABAAAARwEAAAAAAABPAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"",
+					null,
+					"AQAAAIIBAAAAAAAAiwEAAAAAAAAIAAAAZmVhdHVyZXM",
+					"AQAAAAAAAAABAAAAggEAAAAAAACKAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"",
+					null,
+					"AQAAALcBAAAAAAAAwAEAAAAAAAAIAAAAZmVhdHVyZXM",
+					"AQAAAAAAAAABAAAAtwEAAAAAAAC/AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"",
+					null,
+					"AQAAAFUDAAAAAAAAXgMAAAAAAAAIAAAAZmVhdHVyZXM",
+					"AQAAAAAAAAABAAAAVQMAAAAAAABdAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"",
+					null,
+					"AQAAAI0DAAAAAAAAlgMAAAAAAAAIAAAAZmVhdHVyZXM",
+					"AQAAAAAAAAABAAAAjQMAAAAAAACVAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"",
+					null,
+					"AQAAABoAAAAAAAAAIwAAAAAAAAAIAAAAZmVhdHVyZXM",
+					"AQAAAAAAAAABAAAAGgAAAAAAAAAiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"",
+					null,
+					"AQAAADsAAAAAAAAARAAAAAAAAAAIAAAAZmVhdHVyZXM",
+					"AQAAAAAAAAABAAAAOwAAAAAAAABDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"",
+					null,
+					"AQAAAGcAAAAAAAAAcAAAAAAAAAAIAAAAZmVhdHVyZXM",
+					"AQAAAAAAAAABAAAAZwAAAAAAAABvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"",
+					null,
+					"AQAAAI4AAAAAAAAAlwAAAAAAAAAIAAAAZmVhdHVyZXM",
+					"AQAAAAAAAAABAAAAjgAAAAAAAACWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"right_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAByBwAAe3sgaWYgaXNzZXQgLlNpdGUuUGFyYW1zICJtYWlubGlua3MiIH19Cnt7IGlmIC5TaXRlLlBhcmFtcy5tYWlubGlua3MuZW5hYmxlIH19Cnt7IGlmIGlzc2V0IC5TaXRlLkRhdGEgIm1haW5saW5rcyIgfX0Ke3sgaWYgZ3QgKGxlbiAuU2l0ZS5EYXRhLm1haW5saW5rcykgMCB9fQo8c2VjdGlvbiBjbGFzcz0iYmFyIGJhY2tncm91bmQtd2hpdGUiPgogICAgPGRpdiBjbGFzcz0iY29udGFpbmVyIj4KICAgICAgICB7eyAkZWxlbWVudHMgOj0gZGVmYXVsdCAzIC5TaXRlLlBhcmFtcy5tYWlubGlua3MuY29scyB9fQogICAgICAgIHt7ICRtYWlubGlua3MgOj0gc29ydCAuU2l0ZS5EYXRhLm1haW5saW5rcyAid2VpZ2h0IiB9fQoKICAgICAgICB7eyAkdG90YWxfcm93cyA6PSBkaXYgKGxlbiAkbWFpbmxpbmtzKSAkZWxlbWVudHMgfX0KCiAgICAgICAge3sgaWYgZ3QgKG1vZCAobGVuICRtYWlubGlua3MpICRlbGVtZW50cykgMCB9fQogICAgICAgICAge3sgJHRvdGFsX3Jvd3MgPSBhZGQgJHRvdGFsX3Jvd3MgMSB9fQogICAgICAgIHt7IGVuZCB9fQoKICAgICAgICB7eyByYW5nZSAkaSwgJHNlcXVlbmNlIDo9IHNlcSAkdG90YWxfcm93cyB9fQogICAgICAgICAgPGRpdiBjbGFzcz0icm93IHJvdy17eyAkaSB9fSByb3cte3sgaWYgZXEgKG1vZCAkaSAyKSAwIH19b2Rke3sgZWxzZSB9fWV2ZW57eyBlbmQgfX0iPgogICAgICAgICAgICB7eyByYW5nZSAkaiwgJHNlcXVlbmNlMiA6PSAoc2VxICRlbGVtZW50cykgfX0KCiAgICAgICAgICAgICAgICB7eyAkZmVhdHVyZV9pbmRleCA6PSBhZGQgKG11bCAkaSAkZWxlbWVudHMpICRqIH19CiAgICAgICAgICAgICAgICB7eyBpZiBsdCAkZmVhdHVyZV9pbmRleCAobGVuICRtYWlubGlua3MpIH19CiAgICAgICAgICAgICAgICAgICAge3sgJGVsZW1lbnQgOj0gaW5kZXggJG1haW5saW5rcyAkZmVhdHVyZV9pbmRleCB9fQoKICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQte3sgZGl2IDEyICRlbGVtZW50cyB9fSBjb2wte3sgJGogfX0gY29sLXt7IGlmIGVxIChtb2QgJGogMikgMCB9fW9kZHt7IGVsc2UgfX1ldmVue3sgZW5kIH19Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYm94LXNpbXBsZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7eyB3aXRoICRlbGVtZW50LnVybCB9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0ie3sgJGVsZW1lbnQudXJsIH19Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7IGVuZCB9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Imljb24iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0ie3sgJGVsZW1lbnQuaWNvbiB9fSI+PC9pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAge3sgd2l0aCAkZWxlbWVudC51cmwgfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7IGVuZCB9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGgzPnt7ICRlbGVtZW50Lm5hbWUgfCBtYXJrZG93bmlmeSB9fTwvaDM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cD57eyAkZWxlbWVudC5kZXNjcmlwdGlvbiB8IG1hcmtkb3duaWZ5IH19PC9wPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIHt7IGVuZCB9fQogICAgICAgICAgICB7eyBlbmQgfX0KICAgICAgICAgIDwvZGl2PgogICAgICAgIHt7IGVuZCB9fQogICAgPC9kaXY+Cjwvc2VjdGlvbj4Ke3sgZW5kIH19Cnt7IGVuZCB9fQp7eyBlbmQgfX0Ke3sgZW5kIH19Cg",
+					"AQAAAAAAAAABAAAAcgcAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"",
+					null,
+					"AQAAAAAAAAAAAAAAfgYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					117,
+					1,
+					"right_delete",
+					null,
+					"AQAAAEoEAAAAAAAASgQAAAAAAAAYAAAAPGRpdiBjbGFzcz0iYm94LXNpbXBsZSI+",
+					"AQAAAAAAAAABAAAASgQAAAAAAABiBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					120,
+					1,
+					"right_delete",
+					null,
+					"AQAAALMFAAAAAAAAswUAAAAAAAAGAAAAPC9kaXY+",
+					"AQAAAAAAAAABAAAAuQUAAAAAAACzBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					123,
+					1,
+					"right_delete",
+					null,
+					"AQAAACQFAAAAAAAAJAUAAAAAAAADAAAAPHA+",
+					"AQAAAAAAAAABAAAAJwUAAAAAAAAkBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					126,
+					1,
+					"right_delete",
+					null,
+					"AQAAAEwFAAAAAAAATAUAAAAAAAAEAAAAPC9wPg",
+					"AQAAAAAAAAABAAAATAUAAAAAAABQBQAAAAAAAAAAAAAAAPC/"
 				]
 			]
 		}
@@ -562,19 +1094,48 @@
 	"expanded_folders":
 	[
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/static",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/static/css",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/static/img",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/data",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/data/carousel",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/data/features",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/data/mainlinks",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/data/testimonials",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/layouts",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/layouts/partials",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes/newtheme",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes/newtheme/.github",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes/newtheme/.github/workflows",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes/newtheme/archetypes",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes/newtheme/exampleSite",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes/newtheme/images",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes/newtheme/layouts",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes/newtheme/layouts/_default",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes/newtheme/layouts/page",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes/newtheme/layouts/partials",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes/newtheme/layouts/partials/widgets",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes/newtheme/static",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes/newtheme/static/css"
 	],
 	"file_history":
 	[
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes/newtheme/layouts/index.html",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/stroke/introduction.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/faq.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms/ruptured-aneurysms.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms/unruptured-aneurysms.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/data/features/davf.yaml",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/config.toml",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes/newtheme/static/css/custom.css",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/static/css/custom.css",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms/diagnosis.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/stroke.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/stroke/treatment.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/stroke/links.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms/introduction.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/stroke/symptoms.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/stroke/diagnosis.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/contact.md",
+		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/themes/newtheme/static/css/style.default.css",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/editorial-policy.md",
 		"/home/jeremy/Desktop/content/topics/aneurysms/diagnosis.md",
 		"/home/jeremy/Desktop/content/topics/aneurysms/symptoms.md",
@@ -582,17 +1143,13 @@
 		"/home/jeremy/Desktop/content/topics/aneurysms/links.md",
 		"/home/jeremy/Desktop/content/topics/aneurysms/introduction.md",
 		"/home/jeremy/Desktop/content/topics/aneurysms/unruptured-aneurysms.md",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms/unruptured-aneurysms.md",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms/diagnosis.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms/symptoms.md",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms/ruptured-aneurysms.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/spinalvascular/introduction.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/spinalvascular/diagnosis.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/spinalvascular/treatment.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms/links.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/spinalvascular.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/spinalvascular/symptoms.md",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/config.toml",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/spinalvascular/classification.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/avm.md",
@@ -611,7 +1168,6 @@
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/avm/symptoms.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/avm/diagnosis.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/avm/introduction.md",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/aneurysms/introduction.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/links.md",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/layouts/partials/tableOfContents.html",
 		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Development/patientweb/patient.io/content/topics/davf/treatment.md",
@@ -689,24 +1245,11 @@
 		"/home/jeremy/Development/Newsletters_script/subjects/Interventional neuroradiology/old.csv",
 		"/home/jeremy/Development/jeremylynch83.github.io/deviceList.js",
 		"/home/jeremy/Development/Newsletters_script/Dentistry.json",
-		"/home/jeremy/Downloads/dentistry.json",
-		"/home/jeremy/Development/Newsletters_script/AI.json",
-		"/home/jeremy/Development/Newsletters_script/Dermatology.json",
-		"/home/jeremy/Development/Newsletters_script/dentistry.json",
-		"/home/jeremy/Development/Newsletters_script/data.csv",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Research/Radiology Exams AI/Source/app_gpt3.py",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Research/Research direction/pubmed.py",
-		"/home/jeremy/Development/radtemplates/models.py",
-		"/home/jeremy/Development/radtemplates/templates/app.html",
-		"/home/jeremy/Development/radtemplates/templates/newsletter.html",
-		"/home/jeremy/Development/radtemplates/main.py",
-		"/home/jeremy/Development/radtemplates/pubmed.py",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Research/Research direction/extract_tables.py",
-		"/home/jeremy/Insync/jeremy.lynch@gmail.com/Google Drive/Research/research direction/pubmed.py"
+		"/home/jeremy/Downloads/dentistry.json"
 	],
 	"find":
 	{
-		"height": 22.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -720,6 +1263,20 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"patient in",
+			"mainlinks",
+			"features",
+			"more info",
+			"more ingo",
+			"aneurysms",
+			"figure",
+			"image",
+			"figure",
+			"**",
+			"hemorrhagic",
+			"ischemic",
+			"recognize",
+			"ischemic",
 			"body",
 			"p {",
 			"body",
@@ -732,6 +1289,12 @@
 		"regex": false,
 		"replace_history":
 		[
+			"mainlinks",
+			"## ",
+			"haemorrhagic",
+			"ischaemic",
+			"recognise",
+			"ischaemic",
 			"## "
 		],
 		"reverse": false,
@@ -749,11 +1312,72 @@
 			[
 				{
 					"buffer": 0,
-					"file": "content/faq.md",
+					"file": "data/features/furtherinfo.yaml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 634,
+						"buffer_size": 133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80,
+								80
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config.toml",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7347,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7045,
+								7045
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2703.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "themes/newtheme/layouts/partials/footer.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2902,
 						"regions":
 						{
 						},
@@ -766,7 +1390,67 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 585.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "data/carousel/multipurpose.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 52.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "data/mainlinks/spinal.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								153,
+								153
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -777,20 +1461,51 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "content/contact.md",
+					"buffer": 5,
+					"file": "static/css/custom.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 69,
+						"buffer_size": 629,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								69,
-								69
+								629,
+								629
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "content/topics/aneurysms/links.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1796,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1018,
+								1018
 							]
 						],
 						"settings":
@@ -801,68 +1516,38 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 7,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "content/topics/aneurysms/introduction.md",
+					"buffer": 7,
+					"file": "layouts/partials/mainlinks.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2650,
+						"buffer_size": 1625,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1943,
-								1943
+								1356,
+								1356
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 546.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "themes/newtheme/static/css/style.default.css",
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 77542,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								69113,
-								69113
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 2,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 41055.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 5,
 					"stack_multiselect": false,
 					"type": "text"
 				}
@@ -875,7 +1560,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 34.0
 	},
 	"layout":
 	{
@@ -916,7 +1601,7 @@
 	"project": "myproj.sublime-project",
 	"replace":
 	{
-		"height": 40.0
+		"height": 68.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -962,7 +1647,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 325.0,
+	"side_bar_width": 293.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

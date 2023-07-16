@@ -241,13 +241,13 @@ pluralizelisttitles = false
 
 
 
-[params.see_more]
-    enable = true
-    icon = "far fa-file-alt"
-    title = "Further questions?"
-    subtitle = "We welcome contact to answer further questions. "
-    link_url = "/contact"
-    link_text = "More info"
+#[params.see_more]
+#    enable = true
+#    icon = "far fa-file-alt"
+#    title = "Further questions?"
+#    subtitle = "We welcome contact to answer further questions. "
+#    link_url = "/contact"
+#    link_text = "More info"
 
 
 
