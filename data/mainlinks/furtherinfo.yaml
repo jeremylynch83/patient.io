@@ -1,5 +1,5 @@
 weight: 2
 name: "Further information"
 icon: "fas fa-desktop"
-url: "/faq"
+url: "/topics/links"
 description: "Links to further patient resources."

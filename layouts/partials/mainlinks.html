@@ -1,0 +1,43 @@
+{{ if isset .Site.Params "mainlinks" }}
+{{ if .Site.Params.mainlinks.enable }}
+{{ if isset .Site.Data "mainlinks" }}
+{{ if gt (len .Site.Data.mainlinks) 0 }}
+<section class="bar background-white">
+    <div class="container">
+        {{ $elements := default 3 .Site.Params.mainlinks.cols }}
+        {{ $mainlinks := sort .Site.Data.mainlinks "weight" }}
+
+        {{ $total_rows := div (len $mainlinks) $elements }}
+
+        {{ if gt (mod (len $mainlinks) $elements) 0 }}
+          {{ $total_rows = add $total_rows 1 }}
+        {{ end }}
+
+        {{ range $i, $sequence := seq $total_rows }}
+          <div class="row row-{{ $i }} row-{{ if eq (mod $i 2) 0 }}odd{{ else }}even{{ end }}">
+            {{ range $j, $sequence2 := (seq $elements) }}
+
+                {{ $feature_index := add (mul $i $elements) $j }}
+                {{ if lt $feature_index (len $mainlinks) }}
+                    {{ $element := index $mainlinks $feature_index }}
+
+                    <div class="col-md-{{ div 12 $elements }} col-{{ $j }} col-{{ if eq (mod $j 2) 0 }}odd{{ else }}even{{ end }}">
+                        
+                            {{ with $element.url }}
+                            <a href="{{ $element.url }}">
+                                <h3>{{ $element.name | markdownify }}</h3>
+                                {{ $element.description | markdownify }}
+                            </a>
+                            {{ end }}
+                        
+                    </div>
+                {{ end }}
+            {{ end }}
+          </div>
+        {{ end }}
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}
+{{ end }}

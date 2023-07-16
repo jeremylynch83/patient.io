@@ -1,5 +1,5 @@
 weight: 1
 name: "Aneurysms"
 icon: "fas fa-desktop"
-url: "patient.io/topics/aneurysms"
+url: "topics/aneurysms"
 description: "Information on aneurysms and their treatment."

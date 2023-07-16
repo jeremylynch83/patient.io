@@ -183,7 +183,7 @@ pluralizelisttitles = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
     about_us = "<p>Providing patient information on minimally invasive neurological therapies.</p>"
-    copyright = "Copyright 2023. All rights reserved."
+    copyright = "Copyright 2023. All rights reserved. This website is for informational purposes only and should not be used as a substitute for professional medical advice, diagnosis, or treatment."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -231,9 +231,9 @@ pluralizelisttitles = false
     slide_speed = 2000
     pagination_speed = 1000
 
-[params.features]
+[params.mainlinks]
     enable = true
-    cols = 2 # Default: 3, Available values 2,3,4,6
+    cols = 3 # Default: 3, Available values 2,3,4,6
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more information take a look at the README.
@@ -246,7 +246,7 @@ pluralizelisttitles = false
     icon = "far fa-file-alt"
     title = "Further questions?"
     subtitle = "We welcome contact to answer further questions. "
-    link_url = "/faq/"
+    link_url = "/contact"
     link_text = "More info"
 
 
