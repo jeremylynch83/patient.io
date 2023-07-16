@@ -29,7 +29,7 @@ Brain aneurysms are present in about 3% of the population (3 in 100 people) [1].
 
 ## Are brain aneurysms dangerous?
 
-Most aneurysms cause no symptoms or problems to an individual. 
+Many aneurysms cause no symptoms or problems to the individual. 
 
 Some aneurysms can, however, cause symptoms such as double vision, seizures, or strokes without rupturing. These effects are caused by inflammation or pressure on the surrounding brain, or due to the development of blood clots. 
 

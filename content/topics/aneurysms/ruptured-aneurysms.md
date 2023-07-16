@@ -8,7 +8,9 @@ toc: true
 
 Aneurysm rupture results in a severe headache caused by bleeding around the brain, termed subarachnoid haemorrhage. A common description of this is a "thunderclap" headache. It may be accompanied by a stiff neck, sickness, vomiting, sensitivity to light, and loss of consciousness. Aneurysmal haemorrhage may lead to death. Rates of death vary in different studies and range from 20-50% [1]. It is likely that the death rate from aneurysm rupture is decreasing over time due to advances in medical care. 
 
-A patient with a ruptured aneurysm is admitted to hospital. In the initial phase, the individual is placed in an intensive care unit (ICU) where healthcare professionals can closely monitor their condition. The duration of the hospital stay will differ from person to person. Depending on the severity of the condition, it may range from several days to weeks.
+{{< figure src="/img/ruptured_aneurysm.svg">}}
+
+A patient with a ruptured aneurysm is admitted to hospital. In the initial phase, the individual is placed in an intensive care unit (ICU) where healthcare professionals can closely monitor their condition. The duration of the hospital stay will differ from person to person. Depending on the severity of the condition, it may range from a couple of weeks to a longer duration.
 
 One complication that may arise after aneurysm rupture  is hydrocephalus. This condition is characterised by an accumulation of cerebrospinal fluid (CSF) in the brain, leading to increased pressure, which could potentially affect brain function. Management of hydrocephalus is often tackled by temporary methods like external ventricular drains or more permanent solutions such as a shunt. A shunt serves to divert the CSF to another part of the body where it can be reabsorbed more effectively.
 
@@ -21,6 +23,7 @@ Ruptured aneurysms require immediate treatment to prevent further bleeding, as t
 
 The National Institute for Health and Care Excellence (NICE) recommends endovascular treatment for aneurysmal rupture if it is an option due to the significantly improved chance of survival following the treatment [1]. Moreover, patients have a higher likelihood of living independently for at least ten years post-treatment, coupled with a considerably reduced risk of developing seizures. This is based on evidence from high-quality clinical trials (the International Subarachnoid Aneurysm Trial) conducted over a period of 16 years [2]. 
 
+{{< figure src="/img/aneurysm coiling.svg">}}
 
 
 
@@ -29,18 +32,12 @@ The National Institute for Health and Care Excellence (NICE) recommends endovasc
 Patients who survive aneurysm rupture may be left with permanent disabilities, such as weakness in the face, hands, or legs, or speech or visual difficulties. Patients  may also experience more vague symptoms that persist over time, such as a reduced ability to concentrate and frequent headaches.
 
 
-<div style="text-align: center; margin-top: 50px;">
-    <hr>
-    <p><strong>Author:</strong> Dr Jeremy Lynch</p>
-    <p><strong>Role:</strong> Consultant Neurointerventional Radiologist</p>
-    <p>Kings College Hospital, United Kingdom</p>
-</div>
 
 ## References
 
-[1] Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management. NICE guideline [NG228]. Published: 23 November 2022. Section 1.2.
+1. Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management. NICE guideline [NG228]. Published: 23 November 2022. Section 1.2.
 
-[2] Molyneux AJ, Birks J, Clarke A, Sneade M, Kerr RS. The durability of endovascular coiling versus neurosurgical clipping of ruptured brain aneurysms: 18 year follow-up of the UK cohort of the International Subarachnoid Aneurysm Trial (ISAT). Lancet. 2015 Feb 21;385(9969):691-7. 
+2. Molyneux AJ, Birks J, Clarke A, Sneade M, Kerr RS. The durability of endovascular coiling versus neurosurgical clipping of ruptured brain aneurysms: 18 year follow-up of the UK cohort of the International Subarachnoid Aneurysm Trial (ISAT). Lancet. 2015 Feb 21;385(9969):691-7. 
 
 ---
 | Article author   |
