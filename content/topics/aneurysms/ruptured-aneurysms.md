@@ -21,18 +21,24 @@ Another significant complication that may follow aneurysm rupture is cerebral va
 
 ## How are ruptured aneurysms treated?
 
-Ruptured aneurysms require immediate treatment to prevent further bleeding, as the consequences of this may be disastrous. Two techniques are available to achieve this. The primary and less invasive method is endovascular coiling. In this procedure, a catheter is inserted into a blood vessel and guided towards the aneurysm, whereupon small coils are released. These coils facilitate blood clotting, thus averting further rupture. The alternative method, surgical clipping, involves a neurosurgeon creating an opening in the skull and placing a metallic clip on the aneurysm's neck, effectively blocking the blood flow within.
-
-The National Institute for Health and Care Excellence (NICE) recommends endovascular treatment for aneurysmal rupture if it is an option due to the significantly improved chance of survival following the treatment [1]. Moreover, patients have a higher likelihood of living independently for at least ten years post-treatment, coupled with a considerably reduced risk of developing seizures. This is based on evidence from high-quality clinical trials (the International Subarachnoid Aneurysm Trial) conducted over a period of 16 years [2]. 
+Ruptured aneurysms require immediate treatment to prevent further bleeding, as the consequences of this may be disastrous. Two techniques are available to achieve this. The primary and less invasive method is endovascular coiling. In this procedure, a catheter is inserted into a blood vessel and guided towards the aneurysm, whereupon small coils are released. These coils facilitate blood clotting, thus averting further rupture. The National Institute for Health and Care Excellence (NICE) recommends endovascular treatment for aneurysmal rupture if it possible due to the significantly improved chance of survival following the treatment [1]. In addition, patients have a higher likelihood of living independently coupled with a reduced risk of developing seizures. This is based on evidence from high-quality clinical trials such as the International Subarachnoid Aneurysm Trial conducted over a period of 16 years [2]. 
 
 <div class="responsive-image">
     {{< figure src="/img/aneurysm coiling.svg">}}
 </div>
 
+The alternative method, surgical clipping, involves a neurosurgeon creating an opening in the skull and placing a metallic clip on the aneurysm's neck, effectively blocking the blood flow within. This is performed in the minority of cases where endovascular treatment is not possible. 
+
+<div class="responsive-image">
+    {{< figure src="/img/aneurysm-clipping.svg">}}
+</div>
+
 
 ## What are the long-term consequences of aneurysm rupture?
 
-Patients who survive aneurysm rupture may be left with permanent disabilities, such as weakness in the face, hands, or legs, or speech or visual difficulties. Patients  may also experience more vague symptoms that persist over time, such as a reduced ability to concentrate and frequent headaches.
+It is possible to make a full recovery from aneurysm rupture. Unfortunately, some patients are left with permanent disabilities, such as weakness in the face, hands, or legs, or speech or visual difficulties. Patients may also experience more vague symptoms that persist over time, such as a reduced ability to concentrate and frequent headaches.
+
+
 
 
 

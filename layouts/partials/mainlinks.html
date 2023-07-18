@@ -14,6 +14,10 @@
         {{ end }}
 
         {{ range $i, $sequence := seq $total_rows }}
+
+
+
+        
           <div class="row row-{{ $i }} row-{{ if eq (mod $i 2) 0 }}odd{{ else }}even{{ end }}">
             {{ range $j, $sequence2 := (seq $elements) }}
 
