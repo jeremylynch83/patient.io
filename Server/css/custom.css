@@ -1,0 +1,46 @@
+/* your styles go here */
+/* Example site test */
+
+.box-image-text .image {
+    min-height: 190px;
+    max-height: 190px;
+}
+
+.box-image-text .image img {
+    max-height: 190px;
+    margin: auto;
+}
+
+.box-simple {
+    min-height: 230px;
+}
+
+
+.disease-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.disease-item {
+    width: 200px;
+    margin: 15px;
+    text-align: center;
+}
+
+.disease-item img {
+    width: 100%;
+    height: auto;
+}
+
+
+.responsive-image img {
+    width: 100%;
+    height: auto;
+}
+@media screen and (min-width: 768px) {
+    .responsive-image img {
+        width: auto;
+    }
+}
+

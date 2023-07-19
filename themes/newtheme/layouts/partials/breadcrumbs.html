@@ -7,3 +7,8 @@
         </div>
     </div>
 </div>
+
+
+{{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+{{ $.Scratch.Add "path" .Site.BaseURL }}
+
