@@ -114,13 +114,9 @@ A benefit of the WEB device is related to post-procedure medications. With stent
 
 ## Is endovascular treatment durable? 
 
-Yes.
+Yes. Endovascular treatment is highly effective at providing lifelong protection from brain aneurysms. For this reason it is now the most common method to treat brain aneurysms worldwide and has been employed to save countless lives. 
 
-Endovascular treatment is highly effective at providing lifelong protection from brain aneurysms. For this reason it is now the most common method to treat brain aneurysms worldwide and has been employed to save countless lives. 
-
-In preventing adverse consequences such as disability or death endovascular treatment is as effective as surgical clipping. It is the recommended treatment in ruptured aneurysms as studies have shown that endovascular treatment is safer. 
-
-The Cerebral Aneurysm Rerupture after Treatment study reported that the rate of bleeding after endovascular treatment was considerably less than 1% (specifically, about 0.11%) over a follow-up period of 4.4 years [1]. 
+In preventing adverse consequences such as disability or death endovascular treatment is as effective as surgical clipping. It is the recommended treatment in ruptured aneurysms as studies have shown that endovascular treatment is safer. In a large study the rate of aneurysm rebleeding after treatment was found to be less than 1% (specifically 0.7%) [1]. 
 
 However, like any treatment, there is no absolute guarantee that an aneurysm treated with endovascular therapy will never require further treatment. In a small number of cases aneurysms can recur and may necessitate additional procedures. It's worth noting that surgical clipping, much like endovascular treatment, isn't exempt from the possibility of requiring further intervention. For this reason endovascularly treated aneurysms are regularly monitored with follow-up scans to ensure that the treatment remains effective. If a further treatment is required this can usually be performed in a minimally invasive way through the blood vessels without major surgery. 
 
@@ -154,7 +150,7 @@ However, in skilled hands, surgical clipping can provide a solution for many typ
 
 ## References
 
-
+1. Lecler A, Raymond J, Rodriguez-Régent C, Al Shareef F, Trystram D, Godon-Hardy S, Ben Hassen W, Meder JF, Oppenheim C, Naggara ON. Intracranial Aneurysms: Recurrences More than 10 Years after Endovascular Treatment-A Prospective Cohort Study, Systematic Review, and Meta-Analysis. Radiology. 2015 Oct;277(1):173-80.
 
 
 ---
