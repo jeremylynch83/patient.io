@@ -118,11 +118,11 @@ A benefit of the WEB device is related to post-procedure medications. With stent
 
 Yes. Endovascular treatment is highly effective at providing lifelong protection from brain aneurysms. For this reason it is now the most common method to treat brain aneurysms worldwide and has been employed to save countless lives. 
 
-In preventing adverse consequences such as disability or death endovascular treatment is as effective as surgical clipping. It is the recommended treatment in ruptured aneurysms as studies have shown that endovascular treatment is safer. In a large study the rate of aneurysm rebleeding after treatment was found to be less than 1 in 200 patients [1]. Retreatment was carried out in 4.9% of patients. 
+In preventing adverse consequences such as disability or death endovascular treatment is as effective as surgical clipping. It is the recommended treatment in ruptured aneurysms as studies have shown that endovascular treatment is safer. 
 
-However, like any treatment, there is no absolute guarantee that an aneurysm treated with endovascular therapy will never recur necessitating additional procedures. It's worth noting that surgical clipping, much like endovascular treatment, isn't exempt from the possibility of requiring further intervention. For this reason endovascularly treated aneurysms are regularly monitored with follow-up scans to ensure that the treatment remains effective. If a further treatment is required this can normally be performed endovascularly in an elective setting. 
+However, like any treatment, there is no absolute guarantee that an aneurysm treated with endovascular therapy will never recur necessitating additional procedures. In a large study aneurysm retreatment was carried out in 4.9% of patients and rebleeding occured in less than 1 in 200 patients [1]. It's worth noting that surgical clipping, much like endovascular treatment, isn't exempt from the possibility of requiring further intervention. For this reason endovascularly treated aneurysms are regularly monitored with follow-up scans to ensure that the treatment remains effective. If a further treatment is required this can normally be performed endovascularly in an elective setting. 
 
-Overall, the advancements in endovascular therapy provide a highly effective treatment. After treatment of a brain aneurysm you would be more likely to die from another completely unrelated cause such as cancer of heart disease, than from recurrence of the aneurysm [3]. 
+Overall, endovascular therapy provides a highly effective treatment. After embolisation of a brain aneurysm you would be more likely to die from another completely unrelated cause such as cancer of heart disease, than from recurrence of the aneurysm [3]. 
 
 ## What are the risks of endovascular treatment?
 
