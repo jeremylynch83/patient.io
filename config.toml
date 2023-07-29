@@ -1,34 +1,35 @@
-baseurl = "https://devcows.github.io/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
-title = "BrainVascular.com"
-theme = "newtheme"
-languageCode = "en-us"
-# Site language. Available translations in the theme's `/i18n` directory.
-defaultContentLanguage = "en"
-# Enable comments by entering your Disqus shortname
+baseurl = "https://www.brainvascular.com/" # Your main URL, used by search engines to index your site.
+title = "BrainVascular - Information Source on Brain Vascular Health" # This title should contain relevant keywords related to your site's purpose.
+theme = "newtheme" # The site's theme, helping to maintain consistency and structure, which is beneficial for SEO.
+languageCode = "en-us" # Indicates the primary language of your site. Helps search engines to serve your site to appropriate language users.
+defaultContentLanguage = "en" # Default content language. Helps with localized SEO if the theme provides `/i18n` directory for translations.
+
+# You can enable comments with Disqus by adding your shortname.
 #disqusShortname = "devcows"
-# Enable Google Analytics by entering your tracking code
+
+# Enable Google Analytics for website analytics by adding your tracking code. This can help you understand your site's traffic sources and user behavior, which are useful for SEO.
 googleAnalytics = ""
 
-# number of words of summarized post content (default 70)
-summaryLength = 70
+# Configure the length of the summary of post content. A good summary can improve click-through rates from search engine results pages.
+summaryLength = 70 
 
-# Define the number of posts per page
-paginate = 10
+# Number of posts displayed per page. This affects page loading speed, which is an important SEO factor.
+paginate = 10 
 
-# not pluralize title pages by default
-pluralizelisttitles = false
-
+# Default setting to not pluralize title pages. Singular page titles can often be more relevant to a user's specific search queries.
+pluralizelisttitles = false 
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true
-
+      unsafe = true # This setting controls whether or not user-supplied Markdown can include HTML. If it's not necessary, it's safer and better for SEO to keep this as false.
 
 [menu]
+# Main menu configuration
+
+# Keep in mind that each of these settings can help or hinder SEO. Make sure to use them thoughtfully, and regularly review your site's performance using tools like Google Analytics or Search Console.
 
 
-# Main menu
 
 
 [[menu.main]]
