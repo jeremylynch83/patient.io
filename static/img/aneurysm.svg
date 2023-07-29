@@ -6,7 +6,7 @@
    version="1.1"
    id="svg158"
    sodipodi:docname="aneurysm.svg"
-   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,14 +22,15 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.1269876"
-     inkscape:cx="77.640605"
-     inkscape:cy="226.26691"
-     inkscape:window-width="1884"
-     inkscape:window-height="1031"
-     inkscape:window-x="36"
-     inkscape:window-y="25"
+     inkscape:cx="77.196945"
+     inkscape:cy="155.28121"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg158" />
+     inkscape:current-layer="svg158"
+     inkscape:pageshadow="2" />
   <style
      id="style2"><![CDATA[.B{fill:#c50119}.C{stroke-width:.9}.D{stroke-linecap:round}.E{stroke-miterlimit:10}.F{font-family:sans-serif}]]></style>
   <defs
@@ -142,10 +143,23 @@
          d="M-26214.4-25674.4h52428.7v52428.7h-52428.7z"
          id="path55" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath274">
+      <rect
+         style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.617403"
+         id="rect276"
+         width="149.91035"
+         height="157.15305"
+         x="215.96451"
+         y="-442.25314"
+         transform="scale(1,-1)" />
+    </clipPath>
   </defs>
   <g
-     transform="matrix(0.42854306,0,0,-0.42854306,-74.14897,190.65552)"
-     id="g144">
+     transform="matrix(0.42854306,0,0,-0.42854306,-72.360277,189.25298)"
+     id="g144"
+     clip-path="url(#clipPath274)">
     <g
        clip-path="url(#A)"
        id="g62">
@@ -315,35 +329,30 @@
          id="path140" />
     </g>
   </g>
-  <path
-     d="M -16.93819,22.216862 H 24.876977 V 62.521697 H -16.93819 Z M 77.37304,3.1467886 H 150.8025 V 81.591771 H 77.37304 Z"
-     fill="#ffffff"
-     id="path146"
-     style="stroke-width:0.738549" />
   <text
      xml:space="preserve"
-     x="45.100662"
-     y="26.027037"
+     x="46.889355"
+     y="24.624496"
      font-size="3.12628px"
      fill="#000000"
      class="F"
      id="text150"
      style="stroke-width:0.738549"><tspan
-       x="45.100662"
-       y="26.027037"
+       x="46.889355"
+       y="24.624496"
        id="tspan148"
        style="stroke-width:0.738549">Aneurysm</tspan></text>
   <text
      xml:space="preserve"
-     x="40.04393"
-     y="60.096703"
+     x="41.832623"
+     y="58.69416"
      font-size="3.12628px"
      fill="#000000"
      class="F"
      id="text154"
      style="stroke-width:0.738549"><tspan
-       x="40.04393"
-       y="60.096703"
+       x="41.832623"
+       y="58.69416"
        id="tspan152"
        style="stroke-width:0.738549">Blood vessel</tspan></text>
 </svg>
