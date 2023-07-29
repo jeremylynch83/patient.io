@@ -3,8 +3,6 @@ title: "Spinal vascular malformations"
 #image: "/images/covid-19.jpg"
 ---
 
-On this page you will find information about spinal vascular malformations and their treatment. 
-
 * [Introduction to spinal vascular malformations](introduction): In this section, you'll find an overview of spinal vascular malformations, explaining what they are, their different types, and their potential effects on your spinal cord and overall health. 
 
 * [Signs and symptoms](symptoms): Navigate here for a detailed list of the potential signs and symptoms that could be associated with spinal vascular malformations. 

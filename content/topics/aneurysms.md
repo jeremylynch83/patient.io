@@ -4,7 +4,6 @@ toc: true
 #image: "/images/covid-19.jpg"
 ---
 
-On this page you will find information about brain aneurysms and their treatment. 
 
 * [Introduction to brain aneurysms](introduction): Navigate here for a basic understanding of brain aneurysms, discussing their nature, causes, and potential impacts on health and daily life.
 

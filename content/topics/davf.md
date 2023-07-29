@@ -3,7 +3,6 @@ title: "Dural arteriovenous fistula"
 #image: "/images/covid-19.jpg"
 ---
 
-On this page you will find information about cranial dural arteriovenous fistulas and their treatment. 
 
 * [Introduction to dural arteriovenous fistulas](introduction): This section provides essential information about cranial dural arteriovenous fistulas, a vascular condition affecting the covering of the brain (the dura). Understand the nature of this condition, its causes, and how it impacts the circulatory system within the brain.
 

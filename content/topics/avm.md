@@ -3,7 +3,6 @@ title: "Arteriovenous malformations"
 #image: "/images/covid-19.jpg"
 ---
 
-On this page you will find information about arteriovenous malformations and their treatment. 
 
 * [Introduction to arteriovenous malformations](introduction): This section provides basic knowledge about arteriovenous malformations including a breakdown of what these malformations are, why they occur, and how they impact one's health.
 
