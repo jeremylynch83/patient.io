@@ -23,6 +23,13 @@ MRI scans involve being positioned in a tunnel and typically take 20-60 minutes 
 
 Cerebral angiography is a diagnostic procedure that uses X-rays to produce very high-resolution images of the brain's blood vessels, and it is the gold-standard method for identifying aneurysms. During this test, a small incision is made in the patient's groin or wrist, through which a catheter is guided to the blood vessels in the brain. Contrast dye is then injected through the catheter to visualize the aneurysm. This procedure provides the most detailed images of an aneurysm, but it is more invasive than MRI or CT/CTA scans. While it's a generally safe procedure, there is a small risk (less than 0.5%) of a patient suffering a stroke as a result of the procedure.
 
+## Lumbar Puncture
+
+A lumbar puncture, often known as a spinal tap, is a medical procedure where a needle is inserted into the lower portion of the spine (the lumbar region) to extract a sample of cerebrospinal fluid (CSF). This fluid envelops your brain and spinal cord, acting as a protective layer and facilitating a stable environment.
+
+In relation to diagnosing potential ruptured intracranial aneurysms, a lumbar puncture can be useful. This procedure is typically performed when doctors suspect an aneurysm as ruptured but other imaging tests, such as a CT scan, aren't conclusive. This could be because the bleed was minimal, or the blood has dispersed over time. During a lumbar puncture, the collected CSF is meticulously examined for the presence of blood or xanthochromia. The latter is a yellowish or pinkish discoloration that results from the breakdown of red blood cells in the CSF — both of these signs point towards a recent subarachnoid hemorrhage.
+
+
 ---
 | Article author   |
 | ---------------- |
