@@ -44,3 +44,11 @@
     }
 }
 
+:target:before {
+    content: "";
+    display: block;
+    height: 100px; /* Or it could be higher */
+    margin: -100px 0 0; /* Same height as padding to offset - apply negative value of height */
+}
+
+

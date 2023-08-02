@@ -20,10 +20,7 @@ For brain aneurysms there are generally three management strategies:
 
 There are no medications that can be given to shrink aneurysms, however stopping smoking and controlling blood pressure if it is high can reduce the risk of it rupturing.
 
-
-## What factors might lead to an aneurysm being treated?
-
-
+## What factors might lead to an aneurysm being treated? {#factors}
 
 * Symptoms: If the aneurysm is causing symptoms such as double vision or headaches. This is uncommon, however, as most aneurysms do not cause symptoms. 
 * Location: Aneurysms located in certain parts of the brain are more dangerous than others. This includes aneurysms within the ‘posterior' circulation, which includes the basilar, vertebral, and posterior cerebral arteries. 

@@ -16,22 +16,12 @@ If the DAVF is particularly large or complex, an embolisation may be performed p
 
 All treatments and procedures have risks associated with them. Risks may vary depending on the size, position, and configuration of the blood vessels. Rarely it is not possible to embolise a DAVF safely. 
 
-## Minor, common side effects and risks 
+During the DAVF embolisation a contrast agent (iodine based) will be injected into the arteries. This allows for the doctor to visualise the blood vessels when an X-Ray is taken. Contrast agents are considered safe but have the potential to cause an allergic reaction. The department and team are well equipped to deal with reactions in the rare event of this happening. It is important that you contact the department as soon as possible before your procedure if you have reacted to an x-ray contrast agent before or have severe asthma and have been admitted to hospital with an asthma attack in the past year. The contrast agent is excreted through the kidneys and may affect the kidney function after the procedure. This is more common in patients with pre-existing kidney dysfunction and some patients will have a blood test to test the kidney function beforehand to ensure that it is safe to have contrast. The procedure will need to take place under a general anaesthetic. The anaesthetist will discuss the risks of general anaesthesia with you.
 
-* During the DAVF embolisation a contrast agent (iodine based) will be injected into the arteries. This allows for the doctor to visualise the blood vessels when an X-Ray is taken. Contrast agents are considered safe but have the potential to cause an allergic reaction. The department and team are well equipped to deal with reactions in the rare event of this happening. It is important that you contact the department as soon as possible before your procedure if you have reacted to an x-ray contrast agent before or have severe asthma and have been admitted to hospital with an asthma attack in the past year. 
-
-* The contrast agent is excreted through the kidneys and may affect the kidney function after the procedure. This is more common in patients with pre-existing kidney dysfunction and some patients will have a blood test to test the kidney function beforehand to ensure that it is safe to have contrast. 
-
-* The procedure will need to take place under a general anaesthetic. The anaesthetist will discuss the risks of general anaesthesia with you.
-
-
-## Serious but rare risks 
 
 DAVF embolisation may be a complex procedure. Serious complications are rare but possible:
 
-* The procedure may cause a stroke, the risk varies but is in the range of approximately 5% (1 in 20 patients) in most cases. This may be caused by rupture of the aneurysm during treatment or occlusion of blood vessels. Strokes can take different forms but most commonly involve weakness in the arms or legs and difficulty with speech or vision. This may be temporary or permanent, mild or severe. 
-
-* There is a very rare risk of catastrophic brain injury resulting in death of approximately 1% (1 in 100 patients). 
+The procedure may cause a stroke, the risk varies but is in the range of approximately 5% (1 in 20 patients) in most cases. This may be caused by rupture of the aneurysm during treatment or occlusion of blood vessels. Strokes can take different forms but most commonly involve weakness in the arms or legs and difficulty with speech or vision. This may be temporary or permanent, mild or severe. There is a very rare risk of catastrophic brain injury resulting in death of approximately 1% (1 in 100 patients). 
 
 * The use of X-rays during any procedure results in a very small increase in the risk of developing cancer in the future. Very rarely there is temporary hair loss and skin reddening that may occur up to a few weeks after the procedure.. We make every effort to reduce radiation dose to as low as possible. 
 
@@ -53,14 +43,12 @@ Once the procedure has started your doctor will place a thin flexible plastic tu
 
 After the procedure the catheters are removed and the blood vessel in the groin or wrist is sealed off with a collagen plug or manual compression to prevent bleeding.
 
+The procedure usually takes takes 2-3 hours.
+
 
 ## Will it hurt? 
 
-The procedure is done under a general anaesthetic and therefore you should not feel any pain. Sometimes it can be uncomfortable around the wrist or groin access site afterwards, but usually this settles with simple analgesics.  
-How long does an embolisation take? 
-
-It usually takes 2-3 hours. 
-
+The procedure is done under a general anaesthetic and therefore you should not feel any pain. Sometimes it can be uncomfortable around the wrist or groin access site afterwards, but usually this settles with simple analgesics.
 
 ## What happens after the embolisation? 
 
