@@ -4,7 +4,7 @@ toc: true
 #image: "/images/covid-19.jpg"
 ---
 
-# Brain aneurysms explained
+# Brain aneurysms explained 
 
 A short guide to brain aneurysms for patients, focussing on the essential information required to understand and make decisions regarding treatment. 
 
